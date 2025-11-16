@@ -1,0 +1,27 @@
+filters:
+  and:
+    - file.folder == "Session Recaps"
+    - file.ext == "md"
+properties:
+  note.date:
+    displayName: Date
+  note.date_solaris_start:
+    displayName: Solaris Reckoning - Start
+  note.date_solaris_end:
+    displayName: Solaris Reckoning - End
+  note.summary:
+    displayName: Summary
+  file.name:
+    displayName: Name
+views:
+  - type: table
+    name: All Sessions
+    order:
+      - file.name
+      - date
+      - date_solaris_start
+      - date_solaris_end
+      - summary
+    sort: []
+    cardSize: 800
+    rowHeight: extra

@@ -1,0 +1,6 @@
+[submodule ".workshop"]
+	path = .workshop
+	url = git@github.com:wizzlethorpe/workshop.git
+[submodule ".quickbrush"]
+	path = .quickbrush
+	url = https://github.com/wizzlethorpe/quickbrush

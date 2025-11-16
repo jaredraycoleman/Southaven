@@ -1,0 +1,3 @@
+[[Velara Kael|Velara]] is a prime suspect in the [[Murders at the Vess Estate]] since she was found, while spying on the queen, with a knife whose rune-etchings match the runes found in the ritual circle at the Vess Estate.
+
+Velara suspects someone is setting her up, but has no idea that it is actually [[Dessie Pindlehop]], the halfling the party "saved" from cultists in [[Session 14 - Oaths in the Wild]]. 

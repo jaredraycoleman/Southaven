@@ -1,0 +1,3 @@
+The party will go back to [[Southaven]] with [[Bixby Wizzlethorpe]] and 200 troops from [[Queen Aelra Sylanthiel]]. On the way, a few things may happen:
+- [[Ambush on the Road to Southaven]], where scouts will set up an ambush with a team of deadly assassins who will use silence bubbles to kill off the army.
+- The assassin's hideout. They have been in this location for about a month, killing people on the road. Wizzlethorpe actually got very lucky when he passed through, they were busy with someone coming. The party can find a prisoner here who was violently blinded by the cultists. He was a scout 

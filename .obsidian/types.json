@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "date": "date",
+    "date_solaris_start": "date",
+    "date_solaris_end": "date",
+    "locations": "multitext",
+    "birthday": "date",
+    "domains": "multitext",
+    "windcrest_map_coord": "multitext"
+  }
+}

@@ -1,0 +1,36 @@
+filters:
+  and:
+    - file.folder == "Quickbrush/quickbrush-gallery"
+formulas:
+  image: image(image)
+properties:
+  note.date:
+    displayName: Date
+  note.generation_type:
+    displayName: Type
+  note.quality:
+    displayName: Quality
+  note.aspect_ratio:
+    displayName: AR
+  note.brushstrokes_used:
+    displayName: Brushstrokes
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - formula.image
+      - aspect_ratio
+      - brushstrokes_used
+      - date
+      - generation_type
+      - quality
+    sort:
+      - property: date
+        direction: DESC
+    rowHeight: extra
+    columnSize:
+      file.name: 343
+      formula.image: 201
+      note.aspect_ratio: 172
+      note.generation_type: 138

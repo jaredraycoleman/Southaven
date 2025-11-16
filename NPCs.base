@@ -1,0 +1,28 @@
+filters:
+  and:
+    - file.folder == "NPCs"
+views:
+  - type: table
+    name: The Gods
+    filters:
+      and:
+        - species == "god"
+    order:
+      - file.name
+      - domains
+    columnSize:
+      note.type: 84
+  - type: table
+    name: All NPCs
+    order:
+      - file.name
+      - species
+    sort:
+      - property: species
+        direction: ASC
+      - property: name
+        direction: DESC
+      - property: type
+        direction: ASC
+    columnSize:
+      file.name: 162

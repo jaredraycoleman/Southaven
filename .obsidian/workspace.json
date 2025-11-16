@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "1be6c0d5df1d79b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4705ac501491099d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "429c529d8fcae1d2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Notes/Back to Southaven/Siege of Southaven - Location Scenarios.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Siege of Southaven - Location Scenarios"
+            }
+          },
+          {
+            "id": "bdd1b51e9d4a609c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Recaps/Session 26 - The Cultist Hideout.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Session 26 - The Cultist Hideout"
+            }
+          },
+          {
+            "id": "347b003056b516bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Notes/Back to Southaven/Ambush on the Road to Southaven.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ambush on the Road to Southaven"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50434d5d07f06954",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad78ee0a44f5e13b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10e2a262926ecb2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "248c85c89ed96d43",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"Quickbrush/quickbrush-images/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "15bc5d0adaf67b68",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "right": {
+    "id": "32f4f1bf0425e361",
+    "type": "split",
+    "children": [
+      {
+        "id": "771d1549879fb0cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e630830b00ff78e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Places/Bixby's Lab.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bixby's Lab"
+            }
+          },
+          {
+            "id": "9d1b1636a1047916",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Session Plans/Balandel/Balandel Arc Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Balandel Arc Overview"
+            }
+          },
+          {
+            "id": "0eabcb88dae00d76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "29cdfcba07351091",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DM Notes/Back to Southaven/Ambush on the Road to Southaven.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ambush on the Road to Southaven"
+            }
+          },
+          {
+            "id": "9a06ae68fa180175",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "d27f57ae7976d8fd",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "moulinette:Moulinette Browser": false,
+      "file-cleaner-redux:Clean files": false,
+      "templater-obsidian:Templater": false,
+      "janitor:Janitor: scan vault": false,
+      "quickbrush:QuickBrush": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true
+    }
+  },
+  "active": "347b003056b516bb",
+  "lastOpenFiles": [
+    "DM Notes/Back to Southaven/Back to Southaven - DM Reference.md",
+    "attachments/Fadrín_0aab8fce.png",
+    "Places/Fadrín.md",
+    "DM Notes/Back to Southaven/Back to Southaven - Overview.md",
+    "DM Notes/Back to Southaven/Ambush on the Road to Southaven.md",
+    "Places/Khasim's Crown.md",
+    "Places/Fadrin.md",
+    "Fadrin.md",
+    "DM Notes/Back to Southaven/Siege of Southaven - Location Scenarios.md",
+    "Places/Southaven.md",
+    "DM Notes/Back to Southaven/Back to Southaven - DM Reference.md.tmp.46812.1763251329925",
+    "NPCs/Elen Tywin.md",
+    "DM Notes/Back to Southaven/Back to Southaven - Overview.md.tmp.41632.1763251072786",
+    "DM Notes/Back to Southaven/Siege of Southaven - Location Scenarios.md.tmp.41632.1763250923033",
+    "Places/Khasim's Crown - Moonlit Bazaar.md",
+    "Quickbrush/quickbrush-images/Zahir-Sandglass.webp",
+    "Quickbrush/quickbrush-images/Neris-Dunesong.webp",
+    "Quickbrush/quickbrush-images/Jashan-Brasslantern.webp",
+    "Places/The Deadlands.md",
+    "Quickbrush/quickbrush-images/Sahri-Nightwater.webp",
+    "Session Recaps/Session 26 - The Cultist Hideout.md",
+    "Quickbrush/quickbrush-gallery/Moonlit-Bazaar - 2025-11-15 201200.md",
+    "Quickbrush/quickbrush-images/Zahir-Sandglass-mazar.webp.md",
+    "Session Recaps/Session 27 - Confronting Ghorzak the Red.md",
+    "Session Recaps/Session 1 - The Disappearances in Southaven.md",
+    "Session Recaps/Session 25 - Ambush on the Road.md",
+    "Session Recaps/Session 8 - To Lusteris!.md",
+    "Places/The Ember Halls.md",
+    "The Deadlands.md",
+    "attachments/helga_coalfire.webp",
+    "attachments/varik_deepdelve.webp",
+    "attachments/dunna_ironroot.webp",
+    "attachments/brokk_molteneye.webp",
+    "attachments/kira_stoneweave.webp",
+    "Places/Solaris.md",
+    "Organizations/Guild of the Wandering Flame.md",
+    "NPCs/Lorand.md",
+    "Places/Fadrín.md.tmp.36936.1763229863397",
+    "Characters/Lirielle.md",
+    "NPCs/Fadrin Shopkeepers",
+    "workshop/__pycache__/helpers.cpython-311.pyc",
+    "workshop/__pycache__",
+    "workshop/recap.py",
+    "workshop/maker.py",
+    "workshop/helpers.py",
+    "Untitled.canvas"
+  ]
+}
