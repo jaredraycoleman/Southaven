@@ -122,3 +122,5 @@ yarn-error.log
 
 # Example:
 # /attachments/generated/
+
+.smart-env/
