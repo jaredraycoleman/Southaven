@@ -1,6 +1,6 @@
 In [[Session 15 - Pies and Pestilence]], the players found [[Talan Windfern]] in [[The Druid Grove]] they found attacked by cultists. 
 
-Talan is a young druid initiate whose master at the Grove was killed. He is nervous, overly anxious, but cares deeply about nature and [[The Circle of Verdant Flame]], the druid order he belongs to.
+Talan is a young druid initiate whose master at the Grove was killed. He is nervous, overly anxious, but cares deeply about nature and [[Circle of Verdant Flame]], the druid order he belongs to.
 
 The party was only able to find the grove because its wards that usually keep it protected from intentional (much less accidental) discovery were destroyed by the cultists that attacked it. The druid ambassadors in the [[Balandel]] enclave sympathize with Talan when he tells them what happened at the Grove, but they will also give him a task: to make sure the players remember nothing of the circle's secret locations, rituals, etc. 
 

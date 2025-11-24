@@ -16,13 +16,13 @@ Marta is bitter, pragmatic, and survivalist above all else. She turned to bandit
 
 Unlike [[Rothgar Red-Hand|Rothgar]], she has no real loyalty to the [[Order of the Black Star]]—she suspects the cult is using the bandits as expendable pawns. This makes her potentially negotiable if the party can offer her a better deal or proof of the cult's betrayal.
 
-She's haunted by her past, particularly her relationship with [[Gareth Voss]] and her role in introducing him to [[The Duskrunners]] when they were young. Seeing [[Lena Alwin]] with Gareth triggered old jealousies and led her to make the rash decision to capture Lena, a move that cost her two bandits and the respect of some of her crew.
+She's haunted by her past, particularly her relationship with [[Gareth Voss]] and her role in introducing him to [[Duskrunners]] when they were young. Seeing [[Lena Alwin]] with Gareth triggered old jealousies and led her to make the rash decision to capture Lena, a move that cost her two bandits and the respect of some of her crew.
 
 ## Background
 
-Marta grew up in Southaven's rougher districts and joined [[The Duskrunners]] as a teenager alongside her boyfriend [[Gareth Voss]]. She introduced him to the life, and they ran small cons and thefts together. Eventually, seeking legitimacy and a steadier income, Marta joined the Southaven guard while Gareth tried to leave the criminal life behind.
+Marta grew up in Southaven's rougher districts and joined [[Duskrunners]] as a teenager alongside her boyfriend [[Gareth Voss]]. She introduced him to the life, and they ran small cons and thefts together. Eventually, seeking legitimacy and a steadier income, Marta joined the Southaven guard while Gareth tried to leave the criminal life behind.
 
-Years later, when corruption and favoritism in the guard became unbearable, and when she saw Gareth had moved on with [[Lena Alwin]], Marta's bitterness turned to action. She deserted, taking several disillusioned guards with her, and rejoined [[The Duskrunners]]—this time as a leader rather than a foot soldier.
+Years later, when corruption and favoritism in the guard became unbearable, and when she saw Gareth had moved on with [[Lena Alwin]], Marta's bitterness turned to action. She deserted, taking several disillusioned guards with her, and rejoined [[Duskrunners]]—this time as a leader rather than a foot soldier.
 
 When the siege began and [[Rothgar Red-Hand|Rothgar]] established the northern blockade, Marta saw an opportunity to control the southern approach. She's been running a more chaotic, less ideologically-driven operation—focused on survival and profit rather than the cult's grand plans.
 
@@ -31,7 +31,7 @@ Her capture of Lena Alwin was a personal vendetta that she's beginning to regret
 ## Motivations
 
 - Survival and self-preservation above all
-- Secret desire to take over [[The Duskrunners]] if [[Rothgar Red-Hand|Rothgar]] falls
+- Secret desire to take over [[Duskrunners]] if [[Rothgar Red-Hand|Rothgar]] falls
 - Lingering resentment toward [[Gareth Voss]] for moving on
 - Growing suspicion that the cult will betray the bandits
 - Protecting her crew, even if she won't admit she cares
@@ -39,7 +39,7 @@ Her capture of Lena Alwin was a personal vendetta that she's beginning to regret
 ## Connections
 
 - Former girlfriend of [[Gareth Voss]]
-- Introduced Gareth to [[The Duskrunners]] as teenagers
+- Introduced Gareth to [[Duskrunners]] as teenagers
 - Former member of Southaven's guard (deserter)
 - Commands the southern blockade
 - Captured [[Lena Alwin]] out of jealousy

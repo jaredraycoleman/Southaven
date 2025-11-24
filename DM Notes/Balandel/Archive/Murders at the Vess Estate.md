@@ -3,7 +3,7 @@ map: TMC / Pick n Mix 5 / Back Alley
 ---
 The Vess family is a high noble family in [[Balandel]] (Lord [[Elarin Vess]] is a level-headed druid currently working as advisor to [[Archdruid Thalwen Myr]] at [[Telor'Augus, The Grove of Fire]]). The entire place was ransacked and the Vess family who lives there were all murdered horribly.
 
-[[Velara Kael|Velara]] will be a prime suspect when she is found with a knife that has the same runes as were found in the demonic circle at the crime site. The actual murder was [[Dessie Pindlehop]], who was told by [[Serelion Thorneweave]], the imposter ambassador of [[The Balandel Enclave]] to find a key to [[The Verdant Reliquary]] at the Vess Estate. Eleanor Vess (Elarin's mother) was murdered in the estate and tortured to reveal the location of the key.
+[[Velara Kael|Velara]] will be a prime suspect when she is found with a knife that has the same runes as were found in the demonic circle at the crime site. The actual murder was [[Dessie Pindlehop]], who was told by [[Serelion Thorneweave]], the imposter ambassador of [[Balandel Enclave]] to find a key to [[The Verdant Reliquary]] at the Vess Estate. Eleanor Vess (Elarin's mother) was murdered in the estate and tortured to reveal the location of the key.
 
 ### Mechanics
 

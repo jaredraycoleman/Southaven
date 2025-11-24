@@ -3,7 +3,7 @@ location: Southaven
 public: true
 species: human
 ---
-![[Mira-Threadwick-1762723374138.png]]
+![[Mira-Threadwick-1762723374138.webp]]
 
 ## Description
 

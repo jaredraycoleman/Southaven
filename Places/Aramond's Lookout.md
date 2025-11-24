@@ -1,7 +1,7 @@
 ---
 public: true
 ---
-
+![[Aramonds-Lookout-1763926766609.webp]]
 ## Description
 
 Aramond's Lookout is a historic stone keep perched on a strategic rise along the River Aramond, east of [[Southaven]]. Built around the year 400 of the Second Century by the [[Kingdom of Solara]] during their westward expansion into [[Windcrest Valley]], the keep was named after Aramond the Watcher, a legendary Solaran scout who first charted the river and surrounding lands. For centuries, the lookout served as a waystation for travelers and a monitoring post for northern approaches, its sturdy walls and commanding view of the river making it an ideal defensive position.

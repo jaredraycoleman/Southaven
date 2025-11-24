@@ -7,7 +7,7 @@ created: 2025-11-08T19:28:12.001Z
 
 # Bixby Wizzlethorpe
 
-![[Bixby-Wizzlethorpe-1762630091990.png]]
+![[Bixby-Wizzlethorpe-1762630091990.webp]]
 
 ## Generation Details
 

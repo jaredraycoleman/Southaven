@@ -1,5 +1,7 @@
 ---
 public: true
+aliases:
+  - Valenguarde Citadel
 ---
 **Duskwatch**, once known as **Valengarde Citadel**, stands as a forgotten sentinel in the heart of the **Pale Mountains**. This ancient keep's front gates stand ominously at the base of Valengarde mountain with rocky cliffs, a ghostly reminder of its former glory as a thriving mithril mine. The citadel was a marvel of engineering, built into the mountain itself, featuring a grand entrance flanked by high stone walls and fortified towers that jut out precariously from the mountain face.
 

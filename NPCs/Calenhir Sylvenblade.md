@@ -23,7 +23,7 @@ In [[Session 15 - Pies and Pestilence]], the party saved Calenhir and his daught
 
 %% 
 
-One day, while working in the forge, a hooded, soft-spoken druid claiming to serve [[The Circle of Verdant Flame]] walked in with quiet urgency. He claimed their daughter [[Laerwen Sylvenblade|Laerwen]] showed signs of rare foresight: visions, dreams, and whispers from the Wild Beyond. A _dreamer_, he called her, in the old tongue: one touched by fate, marked to carry prophecy.
+One day, while working in the forge, a hooded, soft-spoken druid claiming to serve [[Circle of Verdant Flame]] walked in with quiet urgency. He claimed their daughter [[Laerwen Sylvenblade|Laerwen]] showed signs of rare foresight: visions, dreams, and whispers from the Wild Beyond. A _dreamer_, he called her, in the old tongue: one touched by fate, marked to carry prophecy.
 
 He urged them to seek [[Granny Louise]], an elder known for gentle magic and insight into such gifts. The druid spoke with conviction, and something in his measured tone convinced them. This was all a setup to kill all those born in Balandel with prophetic gifts, though, as they are seen as dangerous by the [[Order of the Black Star|Cult of the Black Star]].
 

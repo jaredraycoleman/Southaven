@@ -20,7 +20,7 @@ summary: With a new ally, the rogue Momeline Sweetwater, the party followed thei
 ---
 The day began with a new face at [[Rusty's Tavern]]. [[Momeline Sweetwater]], a halfling rogue from Brandyburrow, had been listening to the stories of Southaven's troubles and decided it was the perfect chance to embark on the kind of adventure she'd always dreamed of. After a round of introductions over drinks, she joined the party, eager to prove herself.
 
-Before setting out, the adventurers returned to [[Bixby Wizzlethorpe]], who provided them with [[Bixby's Cocktails|a list of rare alchemical ingredients]] to keep an eye out for. With that in mind, they turned their attention to the map found in the cultist hideout and sought an audience with [[Lord Elrin Kael|Lord Kael]]. Troubled by their findings, he offered them 25 gold to investigate [[The Southaven Mines]], one of the marked locations.
+Before setting out, the adventurers returned to [[Bixby Wizzlethorpe]], who provided them with [[Bixby's Cocktails|a list of rare alchemical ingredients]] to keep an eye out for. With that in mind, they turned their attention to the map found in the cultist hideout and sought an audience with [[Lord Elrin Kael|Lord Kael]]. Troubled by their findings, he offered them 25 gold to investigate [[Southaven Mines]], one of the marked locations.
 
 ### The Mines and the Bandits
 

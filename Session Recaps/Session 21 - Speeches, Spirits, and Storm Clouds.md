@@ -25,7 +25,7 @@ summary: 'The party regrouped at the Scarlet Shield Tavern, browsed the shops wi
 ---
 The evening opened in the familiar bustle of the [[Scarlet Shield Tavern]], then a quick sweep of the shopping district—lots of browsing but no buying. [[Lirielle]]'s attempt to offload an **expensive potion of flying** drew curious looks but no takers.
 
-Talk turned to what's next. The options on the table were to go North to [[Vel Seryn]], ride to [[Southaven]] to face the goblin raids, head into the **[[The Ember Halls]]** to check on the dwarves, seek the First Shrine in **[[Solaris]]**, or head east of the [[The Witchwood]] in search of **[[Khasim's Crown]]**. The party ultimately dispatched [[Tilly Thistle|Tilly]] and [[Finnathan Thistle|Finn]] to [[Fadrín]] to assemble a guide to [[Vel Seryn]], while the rest went to visit the Queen, hoping to convince her to send reinforcements with them to Southaven.
+Talk turned to what's next. The options on the table were to go North to [[Vel Seryn]], ride to [[Southaven]] to face the goblin raids, head into the **[[Ember Halls]]** to check on the dwarves, seek the First Shrine in **[[Solaris]]**, or head east of the [[Witchwood]] in search of **[[Khasim's Crown]]**. The party ultimately dispatched [[Tilly Thistle|Tilly]] and [[Finnathan Thistle|Finn]] to [[Fadrín]] to assemble a guide to [[Vel Seryn]], while the rest went to visit the Queen, hoping to convince her to send reinforcements with them to Southaven.
 
 At court, they checked on [[Queen Aelra Sylanthiel|the Queen]] and pressed a key question: Will troops be sent to aid Southaven? She promised a decision by week's end.
 

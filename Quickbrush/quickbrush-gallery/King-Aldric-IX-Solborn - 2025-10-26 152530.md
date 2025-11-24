@@ -77,7 +77,7 @@ The High Priest of Elandria has been Aldric's advisor, mentor, and jailer for ov
 
 Princess Mariella Ashmore (Daughter)
 
-Aldric's only surviving child. She married Lord Brennan Ashmore of Highcrest and lives far from court. The marriage was arranged before her brother's death, and Aldric now regrets sending her away. She visits Solaris occasionally, but their relationship is distant. She has given him two grandchildren, though neither is in direct line of succession.
+Aldric's only surviving child. She married Lord Brennan Ashmore of [[Sunset Bluff]] and lives far from court. The marriage was arranged before her brother's death, and Aldric now regrets sending her away. She visits Solaris occasionally, but their relationship is distant. She has given him two grandchildren, though neither is in direct line of succession.
 
 Lord Elrin Kael
 

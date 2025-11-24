@@ -34,6 +34,6 @@ Donavar's loyalty is primarily to himself, and he is prone to betrayal if it ser
 
 ## Background
 
-Born to a modest family in a bustling city, Donavar's childhood was marked by hardship, but he quickly learned how to manipulate situations to his advantage. By the age of 20, he had risen through the ranks of various illicit trades, establishing himself as a key player in the underworld. He founded the [Duskrunners](The%20Duskrunners.md) as a means of consolidating power and influence, recruiting a loyal crew of ruthless bandits who share his zest for crime.
+Born to a modest family in a bustling city, Donavar's childhood was marked by hardship, but he quickly learned how to manipulate situations to his advantage. By the age of 20, he had risen through the ranks of various illicit trades, establishing himself as a key player in the underworld. He founded the [Duskrunners](Duskrunners.md) as a means of consolidating power and influence, recruiting a loyal crew of ruthless bandits who share his zest for crime.
 
 Driven by ambition, Donavar has spent years battling rival guilds like **The Black Thorns**. These conflicts have forged a dark reputation for him—both a cunning strategist and a formidable foe. Each victory only feeds his insatiable hunger for control, and he dreams of establishing a dominion over all illegal trade within the region.

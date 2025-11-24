@@ -3,7 +3,7 @@ location: "[[Windcrest Valley]]"
 public: false
 map: TMC / Swamps 2 / Swamp Dragon Lair
 ---
-
+![[Blacktide-Beastiary-1763926792521.webp]]
 ## Description
 
 The Blacktide Beastiary is an ancient ruin deep within [[Blacktide Swamp]], where crumbling stone archways and weathered pillars mark what was once a structure of significance. The ruin has collapsed into a massive underground cavern below, its entrance descending through broken masonry into darkness. The air is thick with moisture and the smell of decay, while the sound of dripping water echoes from unseen depths.

@@ -15,8 +15,8 @@ The city is ruled by a council of guilds, each representing a different aspect o
 Each guild has its own power and influence, and they often compete and cooperate with each other to achieve their goals. The council of guilds meets regularly to discuss matters of state, make decisions, and resolve disputes. 
 
 There are many other smaller guilds in Lusteris, each representing a different trade, craft, or profession. These guilds have less power and influence than the council of guilds but still play an important role in the city's economy and society. There are also many criminal guilds operating in Lusteris, such as:
-- [[The Black Thorns]]: a bandit faction known for stealing from the rich and distributing their spoils among the poor. They often clash with the Duskrunners over territory. The Black Thorns see themselves as champions of the downtrodden, while the Duskrunners view them as reckless idealists.
-- [[The Duskrunners]]: a ruthless and efficient guild that specializing in smuggling contraband between Lusteris and other cities including Southaven, Solara, and Seawatch.
+- [[Black Thorns]]: a bandit faction known for stealing from the rich and distributing their spoils among the poor. They often clash with the Duskrunners over territory. The Black Thorns see themselves as champions of the downtrodden, while the Duskrunners view them as reckless idealists.
+- [[Duskrunners]]: a ruthless and efficient guild that specializing in smuggling contraband between Lusteris and other cities including Southaven, Solara, and Seawatch.
 
 ## Description
 
@@ -24,14 +24,14 @@ Lusteris is a bustling, cosmopolitan city-state located in the heart of the Dead
 
 ## The Five Branches of Government
 
-![[The Marble Academy]]
+![[Marble Academy]]
 
-![[The Silver Chair]]
+![[Silver Chair]]
 
-![[The Obsidian Army]]
+![[Obsidian Army]]
 
-![[The Emerald Bank]]
+![[Emerald Bank]]
 
-![[The Sapphire Temple]]
+![[Sapphire Temple]]
 
 

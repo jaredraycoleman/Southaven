@@ -16,7 +16,7 @@ It is one of only three relics that remain from the First War: the Hammer of Ela
 %%
 ## Attunement - The Trials of Light
 
-Attuning to the hammer must be done at The First Shrine in [[Solaris]], the capital city of the Kingdom of Solara. It is the most holy site of the Church of [[The Pantheon#Elandria, Goddess of Light and Inspiration|Elandria]].
+Attuning to the hammer must be done at The First Shrine in [[Solaris]], the capital city of the Kingdom of Solara. It is the most holy site of the Church of [[Pantheon#Elandria, Goddess of Light and Inspiration|Elandria]].
 
 As [[Dravencoles]] reaches the inner sanctum, he should place the Warhammer upon the Altar of Light. The chamber seals. Radiant sigils encircle the altar, and three luminous avatars of Elandria's justice manifest, each presenting a moral dilemma.
 ### Trial 1: The Balance of Justice – _Empathy vs Retribution_

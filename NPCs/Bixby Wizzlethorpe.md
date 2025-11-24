@@ -6,7 +6,7 @@ aliases:
 public: true
 species: human
 ---
-![[Bixby-Wizzlethorpe-1762630091990.png]]
+![[Bixby-Wizzlethorpe-1762630091990.webp]]
 
 ## Overview
 

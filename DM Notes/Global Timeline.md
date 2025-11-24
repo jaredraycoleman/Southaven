@@ -69,7 +69,7 @@
 - The Elfwood is dying from the destruction of the Last Battle
 - Druids of [[Faeren]] gather to save what remains
 - **~3,280 BSC - The Ring of Verdant Stillness is forged**:
-  - Created by [[The Circle of Verdant Flame]]'s greatest druids as an emergency measure
+  - Created by [[Circle of Verdant Flame]]'s greatest druids as an emergency measure
   - Intended to stabilize the Elfwood's leylines temporarily (a few decades at most)
   - Bound to three major groves: [[Myrlen'Thal, The Grove of Morning]], [[Telor'Augus, The Grove of Fire]], and [[Shael'Nareth, The Grove of Twilight]]
   - **Gifted to Queen Aelra Sylanthiel** - a young elf who showed exceptional leadership during the crisis
@@ -100,7 +100,7 @@
 ## **The Solaran Age** (Year 0 - Present)
 
 ### **Year -100 to 0 - Rise of the Church of Elandria**
-- **Year -100**: [[The Church of Elandria]] consolidates power under a unified doctrine
+- **Year -100**: [[Church of Elandria]] consolidates power under a unified doctrine
   - Absorbs smaller Elandrian sects
   - Establishes the hierarchy of Saints and the Eight Sacred Orders
   - Becomes the dominant religious institution in the southern lands
@@ -163,7 +163,7 @@
 - Becomes a haven for those seeking freedom from Solaran control
 
 ### **Year 1097 - The Witchwood Corruption**
-- [[The Witchwood]], once a beautiful forest south of Southaven, begins to darken
+- [[Witchwood]], once a beautiful forest south of Southaven, begins to darken
 - Over the following decades, the forest becomes cursed and dangerous
 - Source of corruption unknown, but locals suspect lingering Black Star influence
 - By 1120, the Witchwood is completely corrupted and avoided by all travelers

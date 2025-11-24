@@ -17,7 +17,7 @@ summary: 'At the Scarlet Shield Tavern, the party regrouped with Talan and Dessi
   odd note and a magical artifact. Dessie was later arrested and it was revealed that
   the flower in her hair concealed her undead nature.'
 ---
-The night began in the familiar warmth of the [[Scarlet Shield Tavern]], where the party briefly reunited and debriefed. After [[Velara Kael|Velara]] retired for the night, [[Talan Windfern]] and [[Dessie Pindlehop]] arrived. Talan shared that he'd spoken with the druids at [[The Balandel Enclave]], who were thankful for the party's efforts, but insisted they now had things under control. The druids seemed especially fond of Dessie, giving her a flower to wear in her hair.
+The night began in the familiar warmth of the [[Scarlet Shield Tavern]], where the party briefly reunited and debriefed. After [[Velara Kael|Velara]] retired for the night, [[Talan Windfern]] and [[Dessie Pindlehop]] arrived. Talan shared that he'd spoken with the druids at [[Balandel Enclave]], who were thankful for the party's efforts, but insisted they now had things under control. The druids seemed especially fond of Dessie, giving her a flower to wear in her hair.
 
 [[Garrin Dace]] eventually left, and the innkeeper approached to offer thanks and drinks on the house. With spirits a bit higher, the group drank and celebrated until one by one, Talan, [[Tilly Thistle|Tilly]], [[Finnathan Thistle|Finn]], and Dessie turned in for the night.
 
@@ -25,7 +25,7 @@ Suddenly, a man burst through the tavern doors, none other than [[Bixby Wizzleth
 
 The next morning, panic struck: Talan burst into the tavern, reporting that Velara had been **arrested**. En route to the prison, the party was intercepted by royal guards and taken before [[Queen Aelra Sylanthiel]].
 
-There, the Queen revealed devastating accusations: Velara was being charged with the murder of Eleanor Vess, her chief advisor. The Queen had also received troubling news from [[Lusteris]], [[Zahir Tariq]] had taken control, [[Eirik Ravenskald]] was executed for treason, and the party was accused of aiding rebels. Though skeptical, the Queen found parts of their story consistent with what her own agents confirmed. The three ambassadors of [[The Circle of Verdant Flame]], [[Serelion Thorneweave]], [[Sylvara Greenthorn]], and [[Irielle Duskwhisper]], advised she jail the party outright.
+There, the Queen revealed devastating accusations: Velara was being charged with the murder of Eleanor Vess, her chief advisor. The Queen had also received troubling news from [[Lusteris]], [[Zahir Tariq]] had taken control, [[Eirik Ravenskald]] was executed for treason, and the party was accused of aiding rebels. Though skeptical, the Queen found parts of their story consistent with what her own agents confirmed. The three ambassadors of [[Circle of Verdant Flame]], [[Serelion Thorneweave]], [[Sylvara Greenthorn]], and [[Irielle Duskwhisper]], advised she jail the party outright.
 
 Instead, the party proposed a compromise: let the Queen visit Velara invisible, to hear her story without bias. At the prison, they subtly warned Velara to choose her words carefully. Velara explained she'd been following the Queen, who had entered a hidden room using a golden key, proof that she could not have committed the murder. She also revealed that Sylvara seemed to know exactly where she was hiding. [[Dravencoles]] suggested the knife used in the murder might have a tracking spell. [[Lirielle]] confirmed this via *Detect Magic*, shocking the Queen, who left immediately.
 
@@ -48,7 +48,7 @@ A heartbeat later, Sylvara seemed to realize what she had just admitted. Her eye
 
 Moments later, steel and magic filled the room. [[Momeline Sweetwater|Momeline]] acted instantly, delivering a devastating **Assassinate**. [[Ferinthria Everflame|Ferinthria]] and Lirielle unleashed powerful magic (though Lirielle's spells had trouble landing). The Queen conjured a spectral sword and struck with fury, and Dravencoles followed with a **Divine Smite**. Sylvara retaliated brutally, wounding Momeline and unleashing a psychic blast that charmed Dravencoles. Momeline struck the final blow, killing her.
 
-The fight occurred in the church of [[The Pantheon#Faeren, God of Nature and Balance|Faeren]]. There, the party found a note:  
+The fight occurred in the church of [[Pantheon#Faeren, God of Nature and Balance|Faeren]]. There, the party found a note:  
 > “Her trigger phrase is *‘The architect is calling on you to serve.'*”
 
 Dravencoles also discovered a Stone of Earth Elemental Control hidden in the sanctuary.

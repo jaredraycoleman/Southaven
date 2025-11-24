@@ -1,7 +1,7 @@
 ---
 public: false
 ---
-![[Ghorzak-the-Red-68fd5b45.webp]]
+![[Quickbrush/quickbrush-images/Ghorzak-the-Red-68fd5b45\.webp]]
 ## Description
 
 Warchief Ghorzak the Red is a towering hobgoblin who commands respect through both martial prowess and cunning leadership. His crimson war paint—earned through countless victories—covers half his face in ritual patterns that seem to writhe in firelight. His armor is a patchwork of scavenged pieces from fallen enemies: dwarven plate, elven mail, human steel, all bound together with leather and dark iron. Across his back, he carries a massive greatsword etched with goblin war-glyphs, and at his belt hangs a pulsing dark crystal shard—a gift from his "allies" in the [[Order of the Black Star]].

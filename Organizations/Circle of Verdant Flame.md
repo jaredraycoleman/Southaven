@@ -1,4 +1,4 @@
-The **Circle of Verdant Flame** is an ancient druidic order devoted to [[The Pantheon#Faeren, God of Nature and Balance|Faeren]], god of nature, balance, and the eternal cycle of life, death, and renewal. Though secretive and reclusive, they are widely respected (and feared) for their deep attunement to the primal forces that shape the world.
+The **Circle of Verdant Flame** is an ancient druidic order devoted to [[Pantheon#Faeren, God of Nature and Balance|Faeren]], god of nature, balance, and the eternal cycle of life, death, and renewal. Though secretive and reclusive, they are widely respected (and feared) for their deep attunement to the primal forces that shape the world.
 
 They are not pacifists. Fire is part of the cycle, just as much as growth. When balance is threatened, the Verdant Flame does not hesitate to act; cleansing rot, breaking corruption, and burning down what must fall to allow new life to rise.
 

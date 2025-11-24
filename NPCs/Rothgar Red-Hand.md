@@ -26,5 +26,5 @@ His "red hand" is the result of a blood ritual he performed to prove his loyalty
 
 - Formerly worked under [[Donavar Reddmark]]
 - Hired by [[Blacksoul Silas]] to establish the northern blockade
-- Commands the [[The Duskrunners]] forces at the northern checkpoint
+- Commands the [[Duskrunners]] forces at the northern checkpoint
 - Has jurisdiction over [[Gareth Voss]] and [[Harlan Drexel]], who are held prisoner at his blockade

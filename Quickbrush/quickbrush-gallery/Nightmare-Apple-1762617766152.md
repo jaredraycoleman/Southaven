@@ -7,7 +7,7 @@ created: 2025-11-08T16:02:46.152Z
 
 # Nightmare Apple
 
-![[Nightmare-Apple-1762617766131.png]]
+![[Nightmare-Apple-1762617766131.webp]]
 
 ## Generation Details
 

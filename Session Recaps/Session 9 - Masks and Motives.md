@@ -30,7 +30,7 @@ Momeline identified Starlit Fern Fronds, a rare alchemical reagent, growing in t
 
 During the event, a bandit incursion disrupted the gala. The masked thieves demanded the wealthy guests surrender their valuables, claiming to represent the forgotten poor. The party chose to stand down. Eirik was visibly irritated, and the leader publicly mocked him.
 
-Later that night, the group decided to investigate one of the suspects in the murders: [[The Black Thorns]]. They located a warehouse and launched an immediate and violent assault using fire magic and close-combat strikes. All present were killed. Among the wreckage, they found a note bearing the signature of Lady V, suggesting the guild followed strict, nonviolent ethical guidelines:
+Later that night, the group decided to investigate one of the suspects in the murders: [[Black Thorns]]. They located a warehouse and launched an immediate and violent assault using fire magic and close-combat strikes. All present were killed. Among the wreckage, they found a note bearing the signature of Lady V, suggesting the guild followed strict, nonviolent ethical guidelines:
 
 > "No blades unless they're drawn first. No fire unless they strike the match."
 

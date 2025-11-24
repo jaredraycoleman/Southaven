@@ -20,7 +20,7 @@ Talan is fiercely protective of the natural world, especially sacred groves and 
 
 ## Background
 
-Talan Windfern was born and raised in Balandel, and at the young age of 16 became an initiate of [[The Circle of Verdant Flame]], a reclusive circle of druids who protected sacred places of natural balance. He was apprenticed to a master druid who taught him the ancient ways of the wild: the languages of trees, the moods of rivers, and the codes carved into stone. When the cultists invaded the grove, his mentor was slain defending the hidden sanctum. Talan barely escaped, sealing himself in the final chamber with an old druidic rite.
+Talan Windfern was born and raised in Balandel, and at the young age of 16 became an initiate of [[Circle of Verdant Flame]], a reclusive circle of druids who protected sacred places of natural balance. He was apprenticed to a master druid who taught him the ancient ways of the wild: the languages of trees, the moods of rivers, and the codes carved into stone. When the cultists invaded the grove, his mentor was slain defending the hidden sanctum. Talan barely escaped, sealing himself in the final chamber with an old druidic rite.
 
 ## Story
 
@@ -28,7 +28,7 @@ Talan Windfern was born and raised in Balandel, and at the young age of 16 becam
 
 **Friendship with Dessie**: Talan got along very well with [[Dessie Pindlehop]], the halfling the party saved in [[Session 14 - Oaths in the Wild]]. When he discovered she was actually dead and being controlled by cultists, he was devastated.
 
-**Caught Between Powers**: During [[Session 18 - A Flower for the Dead]], Talan visited the party at the [[Scarlet Shield Tavern]] after meeting with the druids at [[The Balandel Enclave]]. The druids thanked the party but insisted they had everything under control. Later, [[Queen Aelra Sylanthiel]] had Talan taken to her questioning chamber—not for torture, but to keep him safe and gather information. The druids of the flame discovered his location and liberated him, intending to use him as a witness against the Queen in her trial.
+**Caught Between Powers**: During [[Session 18 - A Flower for the Dead]], Talan visited the party at the [[Scarlet Shield Tavern]] after meeting with the druids at [[Balandel Enclave]]. The druids thanked the party but insisted they had everything under control. Later, [[Queen Aelra Sylanthiel]] had Talan taken to her questioning chamber—not for torture, but to keep him safe and gather information. The druids of the flame discovered his location and liberated him, intending to use him as a witness against the Queen in her trial.
 
 **The Interrogation**: In [[Session 21 - Speeches, Spirits, and Storm Clouds]], the party staged a fake interrogation to test Talan's loyalties. [[Lirielle]] disguised herself as the cultist [[Serelion Vael]] and pretended to break him out while the Queen watched invisibly. Talan simply panicked and claimed ignorance. [[Dravencoles]], frustrated, suggested killing him—shocking everyone and raising questions about the paladin's compassion.
 

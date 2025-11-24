@@ -17,7 +17,7 @@ summary: The party began in the Scarlet Shield Tavern, where Bixby Wizzlethorpe 
   by the Heart Tree. Armed with new cryptic answers and the Queen's charge, they prepared
   to enter the Grove of Twilight.
 ---
-The night began again in the familiar [[Scarlet Shield Tavern]], where the party finally had a moment to breathe. [[Bixby Wizzlethorpe]] presented them with a gift he'd meant to present to them when he arrived: a [[The Heroes of Southaven Painting|painting]] by [[Brenlan Kael]] capturing the group at [[Rusty's Tavern]] in [[Southaven]]. Meanwhile, the Thistles shared their newest research, pointing to three potential sites of [[Vel Seryn]]. Scouts were dispatched toward the Blackridge Vaults, and the party retired for the night, awaiting the Queen's summons.
+The night began again in the familiar [[Scarlet Shield Tavern]], where the party finally had a moment to breathe. [[Bixby Wizzlethorpe]] presented them with a gift he'd meant to present to them when he arrived: a [[Heroes of Southaven Painting|painting]] by [[Brenlan Kael]] capturing the group at [[Rusty's Tavern]] in [[Southaven]]. Meanwhile, the Thistles shared their newest research, pointing to three potential sites of [[Vel Seryn]]. Scouts were dispatched toward the Blackridge Vaults, and the party retired for the night, awaiting the Queen's summons.
 
 In the morning, Bixby concocted cocktails from ingredients the party had gathered. [[Momeline Sweetwater|Momeline]]'s skin began to glow (beautiful but dangerous for stealth). The group sold their wares in the shopping district, where they saw Bixby commandeering a corner of Celine's Bakery, The Velvet Crust.
 

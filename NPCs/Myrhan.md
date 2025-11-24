@@ -2,7 +2,7 @@
 public: true
 species: halfling
 ---
-![[Myrhan_80fb9629.png]]
+![[Myrhan_80fb9629.webp]]
 
 A Halfling [[Order of the Black Star|Black Star cultist]] operations leader in [[Balandel]]. Myrhan is small in stature, but his wicked face, sadistic dark green eyes, evil grin, and neatly combed hair make him frightening to behold. He looks like the kind of person who enjoys others' pain. 
 

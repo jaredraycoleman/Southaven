@@ -7,7 +7,7 @@ species: elf
 
 ## Description 
 
-Ithilwen Galandel is the High Priestess of the Sapphire Temple and a devoted servant of Elandria, Goddess of Light. A striking elven woman with an ethereal presence, she moves with grace and quiet authority, her every step deliberate and serene. Her silver-white hair cascades down her back, framing luminous blue eyes that radiate wisdom and patience. She wears flowing robes of pale gold and deep sapphire, embroidered with sunburst motifs, the sacred symbol of her faith.  
+Ithilwen Galandel is the High Priestess of the Sapphire Temple and a devoted servant of [[Elandria]], Goddess of Light. She has the title Dawnwarden in the [[Church of Elandria]]. A striking elven woman with an ethereal presence, she moves with grace and quiet authority, her every step deliberate and serene. Her silver-white hair cascades down her back, framing luminous blue eyes that radiate wisdom and patience. She wears flowing robes of pale gold and deep sapphire, embroidered with sunburst motifs, the sacred symbol of her faith.  
 
 ## Personality  
 

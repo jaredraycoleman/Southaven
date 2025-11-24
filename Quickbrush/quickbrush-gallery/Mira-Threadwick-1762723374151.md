@@ -7,7 +7,7 @@ created: 2025-11-09T21:22:54.151Z
 
 # Mira Threadwick
 
-![[Mira-Threadwick-1762723374138.png]]
+![[Mira-Threadwick-1762723374138.webp]]
 
 ## Generation Details
 

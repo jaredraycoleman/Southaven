@@ -22,5 +22,5 @@ Despite this, Brenlan yearns for adventure and is often found hidden in the cast
 The party met Brenlan in [[Session 3 - The Hag of Blacktide Swamp]] after defeating the hag. [[Momeline Sweetwater|Momeline]] gifted him a crocodile's tooth and he was very interested in their adventures. He became friendly with them and saw the party at [[Rusty's Tavern]] often. In [[Session 5 - The Kidnapping of Brenlan Kael]], Brenlan was kidnapped by [[Donavar Reddmark]] and the party saved him.
 
 %% 
-While the party has been gone in [[Lusteris]] and [[Balandel]], he has been training as a cleric in the [[The Church of Elandria]]. 
+While the party has been gone in [[Lusteris]] and [[Balandel]], he has been training as a cleric in the [[Church of Elandria]]. 
 %%

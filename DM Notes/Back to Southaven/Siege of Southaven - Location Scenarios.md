@@ -46,7 +46,7 @@ If defeated or interrogated:
 Similar to the northern blockade but more chaotic. These bandits are less disciplined—some are deserters from Southaven's guard, others are opportunistic criminals. They're more interested in loot than ideology.
 
 ### Key NPCs
-- **Marta "The Knife"** (Bandit Leader) – A former Southaven guard who turned to banditry a few years back. Bitter and pragmatic, not loyal to the cult. She used to date [[Gareth Voss]] (who now dates [[Lena Alwin]]) and is the one who got him into the [[The Duskrunners]] when they were teenagers. She worked in 
+- **Marta "The Knife"** (Bandit Leader) – A former Southaven guard who turned to banditry a few years back. Bitter and pragmatic, not loyal to the cult. She used to date [[Gareth Voss]] (who now dates [[Lena Alwin]]) and is the one who got him into the [[Duskrunners]] when they were teenagers. She worked in 
 - **3-5 Bandits** – A mix of thugs and deserters, low morale
 - **1 Deserter Guard** – May recognize the party and could be convinced to help
 - **Hostage** –Lena Alwin, Marta saw her outside the city walls one day and risked too much to capture her (out of anger from the past w/ Gareth), she lost two bandits but got Lena. Some of her bandits don't understand why she risked their lives for a "random" Southaven resident.

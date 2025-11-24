@@ -4,7 +4,7 @@ public: true
 ![[Kingdom-of-Solara-68fe9f7e.webp]]
 ## Overview
 
-The **Kingdom of Solara** is the dominant human kingdom in the southern lands, founded in Year 0 of the Solaran Calendar following a prophetic vision by Saint Calros. Named for the sun and the enlightenment it represents, Solara has grown from a coastal city-state into a vast kingdom spanning from the Seawatch coast through the fertile Windcrest Valley. The kingdom is built on the twin pillars of [[Elandria]]'s light and [[Orithon]]'s order, with [[The Church of Elandria]] serving as its spiritual foundation.
+The **Kingdom of Solara** is the dominant human kingdom in the southern lands, founded in Year 0 of the Solaran Calendar following a prophetic vision by Saint Calros. Named for the sun and the enlightenment it represents, Solara has grown from a coastal city-state into a vast kingdom spanning from the Seawatch coast through the fertile Windcrest Valley. The kingdom is built on the twin pillars of [[Elandria]]'s light and [[Orithon]]'s order, with [[Church of Elandria]] serving as its spiritual foundation.
 
 Solara is a land of culture, scholarship, and prosperity, where art and architecture flourish under royal patronage and the Church's guidance. Yet beneath its gilded surface lie tensions: noble houses vie for power, the Church's influence grows ever stronger, and dissenters flee to places like [[Lusteris]] in search of freedom from Solaran authority.
 
@@ -12,7 +12,7 @@ Solara is a land of culture, scholarship, and prosperity, where art and architec
 
 ### The Prophecy and Founding (Year -100 to 0)
 
-In Year -100, [[The Church of Elandria]] consolidated various Elandrian sects into a unified religious power, establishing its hierarchy of saints and sacred orders. As the Church grew in influence, it sought a temporal power that would embody its ideals of enlightenment and civilization. 
+In Year -100, [[Church of Elandria]] consolidated various Elandrian sects into a unified religious power, establishing its hierarchy of saints and sacred orders. As the Church grew in influence, it sought a temporal power that would embody its ideals of enlightenment and civilization. 
 
 In Year 0, Saint Calros, Patron of Truth, received a divine vision from [[Elandria]] herself. The prophecy declared: *"A new age of light and prosperity will dawn under the Kingdom of Solara, where truth and justice shall reign eternal."*
 
@@ -23,7 +23,7 @@ Inspired by this vision, nobles and clergy gathered in the coastal city of Solar
 The first three centuries of Solaran rule were marked by peaceful expansion and cultural golden age:
 - Art, music, and scholarship flourished under royal and Church patronage
 - The Great Library of Solaris was established
-- [[The Church of Elandria]] became the state religion, with temples in every major settlement
+- [[Church of Elandria]] became the state religion, with temples in every major settlement
 - Coastal trade routes connected Solara to distant lands
 - The kingdom expanded westward slowly along the coast
 
@@ -54,14 +54,14 @@ The **Kael family**, who had served as stewards of the region for generations, w
 
 ### **The Lusteris Secession (Year 1056)**
 
-Not all Solarans embraced the Church's growing influence and the Crown's expanding authority. In Year 1056, a group of dissidents—scholars, merchants, and freethinkers—left Solara for the harsh desert near [[The Deadlands]]. Against all predictions, they successfully established [[Lusteris]], a free city that rejected both Crown and Church authority.
+Not all Solarans embraced the Church's growing influence and the Crown's expanding authority. In Year 1056, a group of dissidents—scholars, merchants, and freethinkers—left Solara for the harsh desert near [[Deadlands]]. Against all predictions, they successfully established [[Lusteris]], a free city that rejected both Crown and Church authority.
 
 King Marcus II declared the Lusterians traitors, but military campaigns to reclaim them failed in the brutal desert heat. Eventually, pragmatism won out: Lusteris became a valuable trading partner, and an uneasy peace was established. Many Solarans still view Lusteris with suspicion, seeing it as a haven for heretics and rebels.
 
 ### **Modern Era (Year 1100-Present)**
 
 The kingdom has continued to grow and prosper, though new challenges emerge:
-- The [[The Witchwood|Witchwood]] became corrupted in Year 1097, creating a dangerous barrier south of Southaven
+- The [[Witchwood|Witchwood]] became corrupted in Year 1097, creating a dangerous barrier south of Southaven
 - Trade with [[Lusteris]] has grown despite official disapproval
 - Relations with the elven territories of [[Balandel]] and [[Vel Enweir]] have strengthened
 - Rumors of cult activity have increased in recent decades
@@ -77,7 +77,7 @@ The King rules from **Solaris**, the capital city, where the royal palace stands
 
 ### **The Church's Role**
 
-[[The Church of Elandria]] is not merely the state religion—it is woven into every aspect of Solaran governance:
+[[Church of Elandria]] is not merely the state religion—it is woven into every aspect of Solaran governance:
 - The **Luminarch** (High Priest of Elandria) serves as the King's chief spiritual advisor
 - Church courts handle matters of theology, marriage, and moral law
 - Temples serve as centers of education, healing, and charity
@@ -107,13 +107,12 @@ Solara's vast territory is divided into lordships, each governed by a noble lord
 
 **Major Lordships:**
 
-| Lordship   | Lord                                 | Notes                                                                 |
-| ---------- | ------------------------------------ | --------------------------------------------------------------------- |
-| Southaven  | [[Lord Elrin Kael\|Lord Elrin Kael]] | Controls northern trade routes, guards against threats from the north |
-| Seawatch   | Lord Cathan Morwen                   | Protects southern coastal approaches, manages maritime trade          |
-| Thornhaven | Lady Sylenna Thornbrook              | Guards northern borders, coordinates with Southaven                   |
-| Riverwatch | Lord Tomas Riverhelm                 | Controls central Windcrest Valley, manages agricultural production    |
-| Highcrest  | Lord Brennan Ashford                 | Manages mountain passes and trade routes to the east                  |
+| Lordship      | Lord                                 | Notes                                                                 |
+| ------------- | ------------------------------------ | --------------------------------------------------------------------- |
+| [[Southaven]] | [[Lord Elrin Kael\|Lord Elrin Kael]] | Controls northern trade routes, guards against threats from the north |
+| [[Seawatch]]  | [[Lord Elrin Kael]]                  | Protects southern coastal approaches, manages maritime trade          |
+| Sunset Bluff  | Lady Sylenna Thornbrook              | Western coastal city                                                  |
+
 
 **Minor Lordships and Holdings:**
 
@@ -214,7 +213,7 @@ The Church controls significant wealth through tithes and donations, operating i
 
 ### **Religion**
 
-[[The Church of Elandria]] dominates Solaran spiritual life. Most citizens attend services regularly, celebrate religious festivals, and seek blessings for major life events. The Eight Saints are venerated, with local temples often dedicated to specific saints based on regional needs.
+[[Church of Elandria]] dominates Solaran spiritual life. Most citizens attend services regularly, celebrate religious festivals, and seek blessings for major life events. The Eight Saints are venerated, with local temples often dedicated to specific saints based on regional needs.
 
 However, other gods are not forbidden—temples to [[Orithon]] (order and law) and [[Seraphis]] (knowledge and magic) exist in major cities, and rural areas may maintain shrines to [[Faeren]] (nature). The Church tolerates these as long as they acknowledge Elandria's primacy.
 

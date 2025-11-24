@@ -1,7 +1,7 @@
 ---
 date: 2025-11-09
-date_solaris_start: 1267-07-16
-date_solaris_end: 1267-07-16
+date_solaris_start: 1267-07-17
+date_solaris_end: 1267-07-17
 public: true
 summary: "The party devised a daring plan to reach Aramond's Lookout: sending Landor to threaten the northern blockade as a distraction while they slipped down the river under cover of the trees. Sneaking past distracted goblins and an ogre guard, they infiltrated the stronghold and confronted Ghorzak the Red and Zigra. When Momeline convinced the goblins to turn on their hobgoblin commander, a chaotic battle erupted. A mysterious snake-creature fled, Talan fell unconscious from venomous wounds that required holy magic to heal, and cultists joined the fray before fleeing into dark smoke. In the aftermath, Zigra agreed to leave the valley and return to the Pale Mountains, though her promise to kill dwarves left the party uneasy."
 ---

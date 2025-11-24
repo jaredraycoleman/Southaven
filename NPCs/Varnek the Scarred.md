@@ -24,7 +24,7 @@ Varnek rose through the criminal underworld of the region through a combination 
 
 Two years ago, he encountered the [[Order of the Black Star]]. Whether through genuine spiritual experience or calculated ambition (perhaps both), Varnek converted fully to their cause. He underwent painful ritual scarification to mark his devotion and began using his criminal empire to serve the cult's goals.
 
-His conversion was a turning point for the region's bandit guilds. With Varnek's endorsement and enforcement, groups like [[The Duskrunners]] that had been independent or only loosely affiliated with the cult were brought into the fold. His reputation and power meant that even skeptical crime lords had to play along or face elimination.
+His conversion was a turning point for the region's bandit guilds. With Varnek's endorsement and enforcement, groups like [[Duskrunners]] that had been independent or only loosely affiliated with the cult were brought into the fold. His reputation and power meant that even skeptical crime lords had to play along or face elimination.
 
 Varnek established Fort Hellrock as his base of operations, turning a ruined fortress in the Hellrock Hills into a stronghold for his most loyal followers. From there, he coordinates the siege of Southaven, working with [[Rothgar Red-Hand|Rothgar]], [[Marta The Knife|Marta]], and the goblin forces to cut off the city.
 
@@ -39,7 +39,7 @@ His journal reveals an obsession with the Taelkor and detailed notes about the c
 
 ## Connections
 
-- Crime lord controlling multiple bandit guilds including [[The Duskrunners]]
+- Crime lord controlling multiple bandit guilds including [[Duskrunners]]
 - Converted to the [[Order of the Black Star]] two years ago
 - Commands Fort Hellrock
 - Coordinates with [[Rothgar Red-Hand|Rothgar]], [[Marta The Knife|Marta]], and the goblins

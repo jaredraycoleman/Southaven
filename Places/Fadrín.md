@@ -2,7 +2,7 @@
 public: true
 location: "[[Elfwood]]"
 ---
-![[Fadrín_0aab8fce.png]]
+![[Fadrín_0aab8fce.webp]]
 
 High on the slopes of the Eastern [[Dragonspire Mountains]], nestled where pine forests brush against stone cliffs, lies the elven town of Fadrín. Unlike their kin of the deep [[Elfwood]], the elves of Fadrín are marked by their striking blue-hued skin, a trait said to be born from generations of mountain air, starlight, and the icy streams that carve through their home. Their presence gives the town a dreamlike quality—figures of sapphire and indigo moving with quiet grace beneath the green canopy and gray stone.
 

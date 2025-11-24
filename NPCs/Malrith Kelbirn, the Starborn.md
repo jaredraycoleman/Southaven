@@ -18,7 +18,7 @@ He is called the **Starborn**, whether as prophecy, title, or self-proclaimed tr
 
 Malrith is not a raving cultist but a visionary tyrant—composed, articulate, and unfalteringly certain of his destiny. His words are soft-spoken yet heavy, like oracles chiseled in stone. He treats allies as disciples, enemies as obstacles, and the world itself as a stage for [[Taelkor]]'s return.
 
-Though he can be patient and calculating, Malrith is utterly merciless when his vision is threatened. He despises [[The Pantheon]] of gods who betrayed [[Taelkor]], and he teaches that their Awakening was not a triumph but a weakness—one he intends to erase.
+Though he can be patient and calculating, Malrith is utterly merciless when his vision is threatened. He despises [[Pantheon]] of gods who betrayed [[Taelkor]], and he teaches that their Awakening was not a triumph but a weakness—one he intends to erase.
 %% 
 ## Background
 

@@ -16,7 +16,7 @@ The Black Star Cult is corrupting one or more of the groves that sustain the rin
 - Its prolonged use violates the life-death-rebirth cycle that Faeren's faith upholds.
 - Druids have long believed the forest was simply blessed by Faeren—none know of the ring.
 
-## The Druids ([[The Circle of Verdant Flame]])
+## The Druids ([[Circle of Verdant Flame]])
 - Reclusive but influential protectors of the wild.
 - Revere Faeren and maintain the sacred groves.
 - Will be outraged when they learn the forest's unnatural longevity comes from arcane manipulation.
@@ -117,4 +117,4 @@ After ~5 days (perhaps on their way back to Balandel), her familiar will return 
 
 - Meanwhile in [[Southaven]], 
 
-- The man the party saved from Granny Louise in [[Session 14 - Oaths in the Wild]] is *Calenhir Sylvenblade*, owner of The Silver Bark Armory in [[Balandel#Shopping District|Balandel's Shopping District]]. He and his wife, who died at Granny Louise's Shack, went to visit her upon recommendation from a hooded false druid of [[The Circle of Verdant Flame]] who claimed to believe the daughter might be a dreamer, what the elves call rare gifted people who have cryptic visions of the future. The girl will tell the party the [[Prophecy of the Wild Spark]].
+- The man the party saved from Granny Louise in [[Session 14 - Oaths in the Wild]] is *Calenhir Sylvenblade*, owner of The Silver Bark Armory in [[Balandel#Shopping District|Balandel's Shopping District]]. He and his wife, who died at Granny Louise's Shack, went to visit her upon recommendation from a hooded false druid of [[Circle of Verdant Flame]] who claimed to believe the daughter might be a dreamer, what the elves call rare gifted people who have cryptic visions of the future. The girl will tell the party the [[Prophecy of the Wild Spark]].
