@@ -2,7 +2,6 @@
 public: true
 species: half-elf
 ---
-
  
 ![[Tessa Durn_088cb119.webp]]
 
@@ -19,9 +18,8 @@ Tessa and her little brother, [[Jesse Durn]] had a very tough childhood. Their p
 
 ## Story
 
-In [[Session 5 - The Kidnapping of Brenlan Kael]], the party found out that [[Donavar Reddmark]] had hired the Durns to kill the party. In [[Session 6 - The Road to Duskwatch]], the party found the Durns attacking some witches on the road to [[Duskwatch Keep]]. Recognizing the Durns as the ones who were hired to kill them, they defended the witches and killed [[Tessa Durn]] and [[Kaelen Rynn]]. [[Jesse Durn]] got away.
+In [[Session 5 - The Kidnapping of Brenlan Kael]], the party found out that [[Donavar Reddmark]] had hired the Durns to kill the party. In [[Session 6 - The Road to Duskwatch]], the party found the Durns attacking some witches on the road to [[Duskwatch Keep]]. Recognizing the Durns as the ones who were hired to kill them, they defended the witches and killed [[Tessa Durn]] and [[Kaelen Rynn]]. [[Jesse Durn]] got away. In [[Session 26 - The Cultist Hideout]], the party killed Tessa again (at her request).
 
 %% 
-
-Jesse has raised Tessa from the dead. she is still herself, but has regular blackouts and is in constant, miserable pain. Because she was resurrected using a necromantic crystal of the [[Order of the Black Star|Cult of the Black Star]], her will is now bound to [[Malrith Kelbirn, the Starborn]]. She must serve him, first and foremost, even before her brother.
+When Jesse raised Tessa from the dead, she was still herself, but had regular blackouts and is in constant, miserable pain. Because she was resurrected using a necromantic crystal of the [[Order of the Black Star|Cult of the Black Star]], her will was bound to [[Malrith Kelbirn, the Starborn]]. She must serve him, first and foremost, even before her brother.
 %%

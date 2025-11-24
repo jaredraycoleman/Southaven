@@ -1,7 +1,7 @@
 ---
 public: true
 ---
-![[Seren-Valewyn.webp]]
+![[Seren-Valewyn-1763945960393.webp]]
 ## Description
 
 Seren Valewyn looks like a daydream that wandered into the wrong story. Her bright blue hair, often tied in an uneven braid, seems perpetually caught in some invisible breeze, and her square glasses slide down her nose no matter how many times she pushes them back up. Her armor—polished by effort rather than success—never quite fits right, and she carries her training blade with more enthusiasm than grace.

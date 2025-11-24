@@ -45,12 +45,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quickbrush/quickbrush-gallery/Kingdom-of-Solara - 2025-10-26 152400.md",
+                "file": "NPCs/Castellan Verin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kingdom-of-Solara - 2025-10-26 152400"
+              "title": "Castellan Verin"
             }
           },
           {
@@ -59,16 +59,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Thalara Vess.md",
+                "file": "NPCs/Luminarch Theodric Brightspire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thalara Vess"
+              "title": "Luminarch Theodric Brightspire"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -246,11 +246,31 @@
       "smart-connections:Smart Connections: Open random connection": true
     }
   },
-  "active": "de92f16427ec478f",
+  "active": "8ce349c38b7cddfa",
   "lastOpenFiles": [
+    "NPCs/King Aldric IX Solborn.md",
+    "NPCs/Elandria.md",
+    "Organizations/Kingdom of Solara.md",
+    "NPCs/Seren Valewyn.md",
+    "NPCs/King Brundrik Stonebluff.md",
+    "Quickbrush/quickbrush-gallery/Seren-Valewyn-1763945960402.md",
+    "Quickbrush/quickbrush-images/Seren-Valewyn-1763945960393.webp",
+    "NPCs/Jesse Durn.md",
+    "NPCs/Malrith Kelbirn, the Starborn.md",
+    "NPCs/Tessa Durn.md",
+    "Quickbrush/quickbrush-images/Malrith-Kelbirn-the-Starborn-1763945897320.webp",
+    "Quickbrush/quickbrush-gallery/Malrith-Kelbirn-the-Starborn-1763945897329.md",
+    "NPCs/Thalara Vess.md",
+    "Quickbrush/quickbrush-gallery/Kingdom-of-Solara - 2025-10-26 152400.md",
+    "NPCs/Luminarch Theodric Brightspire.md",
+    "NPCs/Roswin Brambletoe.md",
+    "DM Notes/Trouble in Solaris/Arc Overview.md.tmp.46812.1763945238465",
+    "Quickbrush/quickbrush-gallery/Thalara-Vess-1763945217570.md",
+    "Quickbrush/quickbrush-images/Thalara-Vess-1763945217535.webp",
+    "NPCs/William Grimsby.md",
+    "NPCs/temp_veloren_lanternkeeper.md",
     "Organizations/Church of Elandria.md",
     "Quickbrush/quickbrush-images/Deadlands-1763926335206.webp",
-    "Quickbrush/quickbrush-gallery/Kingdom-of-Solara - 2025-10-26 152400.md",
     "NPCs/Castellan Verin.md.tmp.46812.1763945087959",
     "NPCs/Luminarch Theodric Brightspire.md.tmp.46812.1763945070318",
     "NPCs/Luminarch Theodric Brightspire.md.tmp.46812.1763945044849",
@@ -259,40 +279,21 @@
     "NPCs/King Aldric IX Solborn.md.tmp.46812.1763944990627",
     "Places/Balandel.md",
     "Quickbrush/quickbrush-gallery/King-Aldric-IX-Solborn-1763933341563.md",
-    "NPCs/King Aldric IX Solborn.md",
     "Quickbrush/quickbrush-gallery/King-Aldric-IX-Solborn - 2025-10-26 152530.md",
-    "Organizations/Kingdom of Solara.md",
     "NPCs/Lord Elrin Kael.md",
     "NPCs/Lord Elric Kael.md",
-    "Quickbrush/quickbrush-images/King-Aldric-IX-Solborn-1763933341553.png",
-    "NPCs/Luminarch Theodric Brightspire.md",
+    "Quickbrush/quickbrush-images/King-Aldric-IX-Solborn-1763933341553.webp",
     "NPCs/Castellan Verin.md",
     "NPCs/Ithilwen Galandel.md",
     "Quickbrush/quickbrush-images/Luminarch-Theodric-Brightspire-68fea259.webp",
     "Places/Solaris.md",
-    "DM Notes/Back to Southaven/Siege of Southaven - Location Scenarios.md",
-    "Creatures/Crimson Watchman.md",
-    "DM Notes/Back to Southaven/Bandit Hideout off the Tradeway.md",
-    "DM Notes/Back to Southaven/Back to Southaven - Overview.md",
-    "DM Notes/Back to Southaven/Ambush on the Road to Southaven.md",
-    "Creatures/Sandwraith.md",
-    "Creatures/Sandwalker.md",
-    "Creatures/Orc-Hound.md",
     "Maps/Windcrest Valley Map.base",
-    "Organizations/Guild of the Wandering Flame.md",
-    "Organizations/Emerald Bank.md",
-    "Organizations/Duskrunners.md",
-    "Organizations/Circle of Verdant Flame.md",
     "Quickbrush/quickbrush-images/Arboretum-1763926771250.webp",
     "Quickbrush/quickbrush-images/Giants-Lake-1763927021034.webp",
     "Quickbrush/quickbrush-images/Opal-Lake-1763926636257.webp",
     "Quickbrush/quickbrush-images/Hellrock-Hills-1763926991563.webp",
-    "Quickbrush/quickbrush-images/Cobblefoot-1763927061571.webp",
-    "Quickbrush/quickbrush-images/Clover-1763927051415.webp",
-    "Quickbrush/quickbrush-images/Mount-Kraknor-1763926892183.webp",
     "Quickbrush/quickbrush-generations.base",
     "Places/Opal Lake.md.tmp.46812.1763926338093",
-    "Places/Mount Kraknor.md.tmp.46812.1763920386819",
     "Untitled.canvas"
   ]
 }

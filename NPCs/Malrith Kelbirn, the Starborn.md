@@ -6,8 +6,7 @@ aliases:
   - Starborn
   - Kelbirn
 ---
-![[Malrith Kelbirn, the Starborn_5a2c5ee0.webp]]
-
+![[Malrith-Kelbirn-the-Starborn-1763945897320.webp]]
 ## Description
 
 Clad in blackened armor and draped in a cloak that seems to drink in the light, Malrith Kelbirn is a figure who inspires awe and dread in equal measure. His long, dark hair whips about like a storm, and his eyes glow faintly red, as if lit from within by a star's dying ember. In one hand he carries a staff crowned with a curling black flame, a symbol of the [[Order of the Black Star]]'s devotion to [[Taelkor|The Unmaker]].

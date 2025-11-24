@@ -7,7 +7,7 @@ created: 2025-11-23T21:29:01.563Z
 
 # King Aldric IX Solborn
 
-![[King-Aldric-IX-Solborn-1763933341553.png]]
+![[King-Aldric-IX-Solborn-1763933341553.webp]]
 
 ## Generation Details
 
