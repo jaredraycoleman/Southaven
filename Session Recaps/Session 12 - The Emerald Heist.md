@@ -15,7 +15,7 @@ summary: To recover the legendary Hammer of Elandria—now confirmed to be in Lu
 ---
 After escaping the crypt beneath the ossuary, the party returned to the Thistle home to regroup. There, they shared their findings about the mysterious hammer—how it was identified by cultists and relocated to Lusteris' most secure vault. In response, Velara and the Thistles revealed a dangerous secret: they had been sheltering fugitives, including none other than **Lyrian Brightwind**, the former High Banker of Lusteris, ousted by **Eirik Ravenskald** in a sham election.
 
-The party met Lyrian—a young, striking half-elf—who revealed the location of the **access amulet** needed to enter the Emerald Bank's most secure vault, where the Hammer of Elandria presumably lay. The group agreed to infiltrate the Emerald House to retrieve it.
+The party met Lyrian—a young, striking half-elf—who revealed the location of the access amulet needed to enter the Emerald Bank's most secure vault, where the Hammer of Elandria presumably lay. The group agreed to infiltrate the Emerald House to retrieve it.
 
 Disguises and deception were the tools of the day. With hoods drawn and **Momeline** hidden in a cart, the party entered the shopping district unnoticed. Then, they blended in with commoners visiting the Emerald House for tours. **Lirielle** used _Disguise Self_ to impersonate a generic noblewoman, Momeline as posed as Lirielle and **Dravencoles**' daughter, while **Ferinthria** acted as a hooded servant. They intimidated guards into granting them access to the **Emerald Suite**, then advanced to the main office. Ferinthria rendered Momeline invisible, distracting a guard with a feigned interest in the office's layout, while Lirielle "accidentally" dropped her scarf.
 

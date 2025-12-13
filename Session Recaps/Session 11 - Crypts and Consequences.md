@@ -15,11 +15,11 @@ summary: Emerging from the Vault, the party encountered a suspicious guard inves
   Among the cult's notes, they found ominous references to a weapon called "the hammer,"
   which had passed a dark test and been relocated to Lusteris' most secure location.
 ---
-The party emerged from the Vault of Imperative Truth, only to find a guard investigating the chamber where Winnifred Redwyne lay dead. The guard, visibly suspicious, ordered the party to wait in the adjoining room. There, another guard recognized Momeline and Lirielle from wanted posters. A tense standoff ensued—Momeline gave her real name, while Ferinthria offered a false one. Acting swiftly, Momeline cast Sleep on one guard, while Dravencoles knocked out the other before they could raise an alarm.
+The party emerged from the Vault of Imperative Truth, only to find a guard investigating the chamber where [[Winnifred Redwyne]] lay dead. The guard, visibly suspicious, ordered the party to wait in the adjoining room. There, another guard recognized [[Momeline Sweetwater|Momeline]] and [[Lirielle]] from wanted posters. A tense standoff ensued—Momeline gave her real name, while [[Ferinthria Everflame|Ferinthria]] offered a false one. Acting swiftly, Momeline cast Sleep on one guard, while [[Dravencoles]] knocked out the other before they could raise an alarm.
 
-On their way out of the Marble Academy Library, the party was nearly intercepted again. A group of guards approached, but Lirielle, thinking quickly, pointed them back toward the restricted wing. The guards took the bait and ran. As the group slipped away, they spotted Lirielle's image on a wanted poster, confirming their faces were known in Lusteris.
+On their way out of the [[Marble Academy]] Library, the party was nearly intercepted again. A group of guards approached, but Lirielle, thinking quickly, pointed them back toward the restricted wing. The guards took the bait and ran. As the group slipped away, they spotted Lirielle's image on a wanted poster, confirming their faces were known in [[Lusteris]].
 
-Back at the Thistle household, the group recounted the encounter to Velara and the Thistles. They discussed the book Void Crowned, Star Bound and the implications of the Vault. More pressing, though, was the matter brought to them by Ithilwen Galandel—the disappearing priestesses of the Sapphire Temple.
+Back at the Thistle household, the group recounted the encounter to [[Velara Kael|Velara]] and the Thistles. They discussed the book Void Crowned, Star Bound and the implications of the Vault. More pressing, though, was the matter brought to them by [[Ithilwen Galandel]]—the disappearing priestesses of the [[Sapphire Temple]].
 
 Following Ithilwen's lead, the party investigated the crypts behind the city's ossuary. Using the medallion Ithilwen had gifted him, Dravencoles detected necromantic activity and identified a suspicious tomb. Inside, they uncovered a hidden passage leading to a dark cult lair.
 

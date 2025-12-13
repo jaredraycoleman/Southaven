@@ -30,7 +30,7 @@ summary: 'With Donavar dead and more questions than answers, the party turned th
   left, the party presses on. What awaits them in Duskwatch? And why did the witches
   ignore Dravencoles entirely? The answers lie ahead, but so do greater dangers.'
 ---
-After the chaos in Southaven, the party reconvened at [[Rusty's Tavern]] to plan their next move. It was there that [[Momeline Sweetwater|Momeline]] suddenly reappeared, slipping into their booth as if she had never been missing. She wasted no time in explaining her situation: she was cursed. Whether by magic or something hereditary, she didn't know, but sometimes she shifted partially into the ethereal plane, able to see and hear everything but unable to interact with the world. It was one of the main reasons she had taken up adventuring. She wanted to find a cure.
+After the chaos in [[Southaven]], the party reconvened at [[Rusty's Tavern]] to plan their next move. It was there that [[Momeline Sweetwater|Momeline]] suddenly reappeared, slipping into their booth as if she had never been missing. She wasted no time in explaining her situation: she was cursed. Whether by magic or something hereditary, she didn't know, but sometimes she shifted partially into the ethereal plane, able to see and hear everything but unable to interact with the world. It was one of the main reasons she had taken up adventuring. She wanted to find a cure.
 
 With that mystery (somewhat) explained, the group turned their attention to another pressing concern: Who were the Durns? They knew [[Donavar Reddmark]] had hired them, but to what end? They needed answers.
 
@@ -50,7 +50,7 @@ At dawn on the 21st of May, they set out for [[Duskwatch Keep]]. The journey to 
 
 The first leg of their journey was uneventful as they made camp near a riverbank for the night. However, as the group settled in, [[Dravencoles]] had a nagging feeling—they were being watched. Though they found tracks nearby, no immediate threat revealed itself.
 
-By the second night, they reached the base of the Pale Mountains. Once again, Dravencoles felt unseen eyes on them, and once again, they found tracks in the dirt but no sign of their stalker.
+By the second night, they reached the base of the [[Pale Mountains]]. Once again, Dravencoles felt unseen eyes on them, and once again, they found tracks in the dirt but no sign of their stalker.
 
 In the morning, strange noises echoed through the forest ahead. Sending [[Leonard Chesterwolfe]], [[Ferinthria Everflame|Ferinthria]]'s newly named wolf companion, to scout, the party soon discovered a group of witches performing a ritual deep in the woods.
 
@@ -72,11 +72,11 @@ As they neared their destination, they stumbled upon a goblin encampment. Rather
 
 The goblin leader revealed some troubling news:
 
-Blacksoul Silas, a powerful necromancer, was recruiting goblin tribes to form an army.
+[[Blacksoul Silas]], a powerful necromancer, was recruiting goblin tribes to form an army.
 
 The leader didn't know why, only that many goblin clans were answering the call.
 
-He also revealed that they had captured a young half-elf boy sobbing in the woods and sent a party to deliver him to Duskwatch.
+He also revealed that they had captured a young half-elf boy sobbing in the woods and sent a party to deliver him to [[Duskwatch Keep|Duskwatch]].
 
 The party was preparing to leave without conflict, but as Momeline was being escorted back, one goblin recognized her—calling her one of the “Heroes of Southaven.” In an instant, the village turned on them.
 
@@ -90,10 +90,10 @@ Momeline stabilized him just in time, allowing the group to turn the tide.
 
 The last enemy standing was a formidable Goblin Hexer, who attempted to flee, but Momeline coated her blade in Drow poison and knocked her unconscious instead. They tied her up and interrogated her, gaining vital intel:
 
-Blacksoul Silas operates from Duskwatch, leading a necromantic cult.
+[[Blacksoul Silas]] operates from Duskwatch, leading a necromantic cult.
 
 The goblins were pawns, knowing little of his true plans.
 
-She revealed the location of Duskwatch and of her father's goblin camp, promising they would be welcome there if they ever passed by.
+She revealed the location of [[Duskwatch Keep|Duskwatch]] and of her father's goblin camp, promising they would be welcome there if they ever passed by.
 
 Satisfied, they let her go, looted the fallen, and prepared to rest before the final day of their journey.

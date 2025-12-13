@@ -14,11 +14,11 @@ summary: Following the witches' warning, the party ascended a hidden mountain tr
   battle, they freed Mira from his control, but Duskwatch remains full of dangers.
   Silas is gone (for now) but his dark schemes are already in motion.
 ---
-On the fifth day of their journey to Duskwatch Keep, the party set off with determination. Early in the day, they came across a narrow trail branching off the main path up the mountainside. Lirielle recalled the witches' cryptic words to Momeline: "Go up". Trusting this hint, the party took the trail, with Momeline scouting ahead.
+On the fifth day of their journey to [[Duskwatch Keep]], the party set off with determination. Early in the day, they came across a narrow trail branching off the main path up the mountainside. [[Lirielle]] recalled the witches' cryptic words to [[Momeline Sweetwater|Momeline]]: "Go up". Trusting this hint, the party took the trail, with Momeline scouting ahead.
 
-After about an hour, Momeline heard the clinking of armor—five guards patrolling the area, likely searching for them. The party hid, with Dravencoles standing openly to confront the guards. The guards approached cautiously, and Dravencoles' attempt at diplomacy faltered when he inadvertently hinted at the presence of his hidden allies. The guards, suspicious and under orders to arrest intruders, declared their intent to detain him. Dravencoles, refusing to comply, initiated combat. The party joined the fray and swiftly overpowered the patrol.
+After about an hour, Momeline heard the clinking of armor—five guards patrolling the area, likely searching for them. The party hid, with [[Dravencoles]] standing openly to confront the guards. The guards approached cautiously, and Dravencoles' attempt at diplomacy faltered when he inadvertently hinted at the presence of his hidden allies. The guards, suspicious and under orders to arrest intruders, declared their intent to detain him. Dravencoles, refusing to comply, initiated combat. The party joined the fray and swiftly overpowered the patrol.
 
-Continuing up the trail, they found a hidden entrance to Duskwatch Keep, unguarded, with the main entrance below, guarded by four soldiers. Inside, they scavenged a storage room, finding a healing potion and some robes, which they donned to blend in. Their deception was soon tested when a guard captain approached. Ferinthria quickly cast Friends and convinced the captain they had urgent business with [[Blacksoul Silas]]. The captain, momentarily charmed, went to fetch him.
+Continuing up the trail, they found a hidden entrance to Duskwatch Keep, unguarded, with the main entrance below, guarded by four soldiers. Inside, they scavenged a storage room, finding a healing potion and some robes, which they donned to blend in. Their deception was soon tested when a guard captain approached. [[Ferinthria Everflame|Ferinthria]] quickly cast Friends and convinced the captain they had urgent business with [[Blacksoul Silas]]. The captain, momentarily charmed, went to fetch him.
 
 Avoiding further confrontation, the party moved through the keep, passing suspicious guards and crossing a bridge over an underground stream. They heard loud goblin chatter from one room and opted to explore the stream below instead. Dravencoles and Momeline discovered a hidden cavern with skeletal remains, where Momeline took a silvery crown and a ring with a blue gemstone from one of the skeletons.
 
@@ -28,14 +28,6 @@ Deciding to backtrack, they put two guards to sleep to gain access to a room whe
 
 Beyond a shimmering soundproof barrier, they spied on Silas as he argued with a cold, commanding voice emanating from a large black crystal. The voice reprimanded Silas for his reckless exposure of their plans, warning of dire consequences if he failed. Silas, defensive but resolute, insisted on accelerating his schemes. After the crystal's glow faded, Silas manipulated a conflicted Mira, using charm spells to exploit her insecurities and loyalty. Realizing this, the party intervened, prompting Silas to retreat and summon a shadow demon as a last line of defense.
 
-The battle was fierce. Mira, under Silas' spell, attacked [[Dravencoles]], who initially tried to reason with her. Ferinthria and Lirielle cast Hold Person, momentarily restraining Mira. Momeline, invisible, pursued Silas, witnessing him command the demon to "handle the intruders" before fleeing. The party fought the demon and its summoned shadows, with Lirielle's poison spells proving ineffective against the creature. Dravencoles' divine smite dealt a devastating blow, nearly destroying the demon, which exploded in necrotic energy upon death.
+The battle was fierce. [[Mira Fallbrook|Mira]], under Silas' spell, attacked [[Dravencoles]], who initially tried to reason with her. Ferinthria and Lirielle cast Hold Person, momentarily restraining Mira. Momeline, invisible, pursued Silas, witnessing him command the demon to "handle the intruders" before fleeing. The party fought the demon and its summoned shadows, with Lirielle's poison spells proving ineffective against the creature. Dravencoles' divine smite dealt a devastating blow, nearly destroying the demon, which exploded in necrotic energy upon death.
 
 Mira awoke, shaken and hostile, but Ferinthria's gentle words about Dr. [[Bixby Wizzlethorpe|Wizzlethorpe]]'s concern finally broke through her guilt and fear. Overwhelmed, Mira surrendered, no longer under Silas' control but deeply troubled by her actions. The party, victorious yet uncertain of Silas' next move, comforted Mira, offering her a chance at redemption.
-
-What Comes Next?
-
-Silas is gone, but his plans are accelerating. The fortress remains swarming with cultists, goblins, and mercenaries. Their escape won't be easy.
-
-What is Silas truly planning? What is The Starborn? And how long before Duskwatch's full wrath descends upon them?
-
-The fight is far from over.
