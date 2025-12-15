@@ -1,0 +1,4 @@
+---
+public: false
+---
+A **Tether** is the horrific engine at the heart of [[The Deathless]]—a tentacled aberration with no eyes and a massive, pulsating brain-like mass that serves as both its body and its purpose. It lurks in the sacred depths of Deathless temples, never moving, never speaking, yet always aware. When a worthy supplicant is sacrificed to [[Vaelith]], the Tether draws their soul back from death's threshold and binds it to undying flesh. Every Deathwalker it creates remains psychically linked to it, forming a hive of minds that can communicate, influence, and—if unchecked—dominate one another. The Tether itself does not command; it simply connects. As long as a Tether lives, all Deathwalkers bound to it are immortal and ageless. Destroying one severs every link it ever forged—and ends every unlife it sustained.

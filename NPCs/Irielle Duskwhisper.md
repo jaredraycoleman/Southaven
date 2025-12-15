@@ -1,6 +1,8 @@
 ---
 public: true
 species: elf
+aliases:
+  - Irielle
 ---
 ![[Irielle Duskwhisper_657c1424.webp|385x385]]
 ## Description

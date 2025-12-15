@@ -1,5 +1,4 @@
 ---
-location: Vel Enweir
 public: true
 species: fae
 ---

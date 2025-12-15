@@ -1,6 +1,8 @@
 ---
 public: true
 species: human
+aliases:
+  - Kaelen
 ---
 ![[Kaelen Rynn_0a72b868.webp]]
 

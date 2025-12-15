@@ -2,6 +2,8 @@
 location: Southaven
 public: true
 species: human
+aliases:
+  - Mira
 ---
 ![[Mira-Threadwick-1762723374138.webp]]
 

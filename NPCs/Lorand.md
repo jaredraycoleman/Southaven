@@ -1,5 +1,6 @@
 ---
-public: false
+public: true
+species: human
 ---
 ![[Lorand-6908e831.webp]]
 ## Description

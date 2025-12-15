@@ -1,5 +1,8 @@
 ---
 public: true
+aliases:
+  - Gralduk
+species: goblin
 ---
 ![[Chief-Gralduk-68fd598d.webp]]
 ## Description

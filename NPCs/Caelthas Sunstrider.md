@@ -1,6 +1,8 @@
 ---
 public: true
 species: elf
+aliases:
+  - Caelthas
 ---
 ![[Caelthas Sunstrider_f45c7a4b.webp]]
 ## Description

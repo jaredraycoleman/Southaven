@@ -1,6 +1,8 @@
 ---
 public: true
 species: wolf
+aliases:
+  - Leonard
 ---
 ![[Leonard Chesterwolfe_b1980b47.webp]]
 

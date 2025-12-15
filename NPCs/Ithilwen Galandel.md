@@ -1,7 +1,8 @@
 ---
-location: Lusteris
 public: true
 species: elf
+aliases:
+  - Ithilwen
 ---
 ![[Ithilwen Galandel_165c7d7e.webp]]
 

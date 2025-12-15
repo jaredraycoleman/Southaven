@@ -1,5 +1,8 @@
 ---
 public: true
+aliases:
+  - Landor
+species: elf
 ---
 ![[Landor Vess.webp]]
 ## Description

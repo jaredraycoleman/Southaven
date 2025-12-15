@@ -1,7 +1,9 @@
 ---
-location: Lusteris
 public: true
 species: human
+aliases:
+  - Yuki
+  - Chairwoman Song
 ---
 ![[Yuki Song_d683810a.webp]]
 ## Description  

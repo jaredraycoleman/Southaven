@@ -1,6 +1,8 @@
 ---
 public: true
 species: half-elf
+aliases:
+  - Tessa
 ---
  
 ![[Tessa Durn_088cb119.webp]]

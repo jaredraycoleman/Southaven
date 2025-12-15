@@ -1,5 +1,8 @@
 ---
 public: false
+species: human
+aliases:
+  - Edwin
 ---
 ![[Edwin-the-Smuggler-68fd5755.webp]]
 ## Description

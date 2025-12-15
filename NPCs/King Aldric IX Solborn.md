@@ -1,5 +1,9 @@
 ---
 public: true
+aliases:
+  - King Aldric
+  - Alrdic
+species: human
 ---
 ![[King-Aldric-IX-Solborn-1763933341553.webp]]
 ## Description

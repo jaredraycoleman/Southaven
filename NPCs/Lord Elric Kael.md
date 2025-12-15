@@ -1,6 +1,9 @@
 ---
 public: true
 species: human
+aliases:
+  - Lord Kael
+  - Elric
 ---
 ![[Lord Elric Kael.webp]]
 

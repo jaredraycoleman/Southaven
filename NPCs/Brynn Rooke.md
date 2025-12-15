@@ -18,9 +18,19 @@ Brynn is charismatic in an understated way, speaking softly and carefully. He ha
 %%
 ## Background
 
-Brynn learned the art of magical tattooing from a traveling monk of [[Nytheris]], who taught him that ink and magic could bind together to create lasting enchantments on living flesh. He set up shop in Solaris's thriving underground scene about five years ago, quickly gaining a reputation as the best—and most expensive—tattoo artist in the capital. His clients range from criminals and rebels to bored nobles seeking something their peers would never dare display at court.
+Brynn learned the art of magical tattooing from a traveling monk of [[Seraphis]], who taught him that ink and magic could bind together to create lasting enchantments on living flesh. He set up shop in Solaris's thriving underground scene about five years ago, quickly gaining a reputation as the best—and most expensive—tattoo artist in the capital. His clients range from criminals and rebels to bored nobles seeking something their peers would never dare display at court.
 
-He operates out of a small, candlelit parlor tucked into the Undercroft district, where the air smells of incense and ink. Though he worships [[Elandria]] like most of Solaris, he keeps a small shrine to Nytheris in his workspace—a nod to his teacher and the shadows that shelter his art.
+He operates out of a small, candlelit parlor tucked into the Undercroft district, where the air smells of incense and ink. Though he publicly worships [[Elandria]] like most of Solaris, this is a facade.
 
 Brynn has connections throughout the underground and hears things. He could serve as an information broker if the party earns his trust. He also knows secret routes through the city that bypass official checkpoints.
+
+## The Deathless
+
+Brynn is secretly a member of [[The Deathless]], devoted to [[Vaelith]]. He recently underwent the transformation ritual and was resurrected by the Tether at [[Last Light Church]], making him a Deathwalker—an immortal, nearly undetectable undead. His body appears completely alive; only physical touch can reveal his true nature.
+
+He is still in the midst of his Final Trial—the prolonged mental assault that tests whether a new Deathwalker can resist the psychic influence of others through the Tether's link. The temptations come in waves: whispers urging him to dominate, to control, to bend others to his will. So far, he has resisted. The struggle is constant, but Brynn finds the discipline similar to his tattooing work—precise control, steady hands, unwavering focus.
+
+He has not yet sworn submission to his Deathlord, as the vow only comes after successfully completing the trial. Until then, he exists in a liminal state: transformed but not yet fully initiated, connected to the Tether but still proving his worth. If he fails, his mind will be stripped away and he will become one of the mindless undead soldiers the Deathless use as guards.
+
+Brynn's code of ethics—refusing to tattoo the unwilling, rejecting work that glorifies cruelty—aligns perfectly with the Deathless tenets. The Right to Free Will. The Right to Submit. He believes in both.
 %%

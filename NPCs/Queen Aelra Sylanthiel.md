@@ -1,6 +1,9 @@
 ---
 public: true
 species: elf
+aliases:
+  - Aelra
+  - Queen Sylanthiel
 ---
 ![[Queen Aelra Sylanthiel_ec729abd.webp]]
 

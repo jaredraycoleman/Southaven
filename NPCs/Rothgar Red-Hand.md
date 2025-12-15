@@ -1,5 +1,8 @@
 ---
-public: false
+public: true
+species: human
+aliases:
+  - Rothgar
 ---
 ![[Rothgar-Red-Hand-68fd587c.webp]]
 ## Description

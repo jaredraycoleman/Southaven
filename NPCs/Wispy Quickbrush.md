@@ -1,5 +1,8 @@
 ---
 public: true
+aliases:
+  - Wispy
+species: halfling
 ---
 ![[Wispy Quickbrush_a332bc54.webp]]
 ### Description

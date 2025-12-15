@@ -1,5 +1,8 @@
 ---
 public: true
+species: human
+aliases:
+  - Varnek
 ---
 ![[Varnek-the-Scarred-68fd58b0.webp]]
 ## Description

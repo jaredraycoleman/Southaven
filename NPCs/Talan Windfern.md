@@ -1,7 +1,8 @@
 ---
-location: Vel Enweir
 public: true
 species: elf
+aliases:
+  - Talan
 ---
 
 ![[talan_windfern_chill.webp]]

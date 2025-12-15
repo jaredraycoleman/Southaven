@@ -1,5 +1,8 @@
 ---
 public: true
+species: human
+aliases:
+  - Marta
 ---
 
 ![[Marta-The-Knife-68fd597e.webp]]
@@ -28,19 +31,6 @@ When the siege began and [[Rothgar Red-Hand|Rothgar]] established the northern b
 
 Her capture of Lena Alwin was a personal vendetta that she's beginning to regret, as it revealed her weakness to her crew and made them question her judgment.
 
-## Motivations
+## Story
 
-- Survival and self-preservation above all
-- Secret desire to take over [[Duskrunners]] if [[Rothgar Red-Hand|Rothgar]] falls
-- Lingering resentment toward [[Gareth Voss]] for moving on
-- Growing suspicion that the cult will betray the bandits
-- Protecting her crew, even if she won't admit she cares
-
-## Connections
-
-- Former girlfriend of [[Gareth Voss]]
-- Introduced Gareth to [[Duskrunners]] as teenagers
-- Former member of Southaven's guard (deserter)
-- Commands the southern blockade
-- Captured [[Lena Alwin]] out of jealousy
-- Distrusts [[Rothgar Red-Hand|Rothgar]]'s cult connections
+The party killed Marta in [[Session 29 - Secrets Beneath the Stone]] while rescuing [[Lena Alwin]] from the Southern Blockade.

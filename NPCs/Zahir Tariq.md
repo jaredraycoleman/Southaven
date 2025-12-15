@@ -1,7 +1,9 @@
 ---
-location: Lusteris
 public: true
 species: human
+aliases:
+  - Zahir
+  - Blacksword Tariq
 ---
 ![[Zahir Tariq_c6bdd0ac.webp]]
 

@@ -1,7 +1,8 @@
 ---
-location: Southaven
 public: true
 species: human
+aliases:
+  - Harlan
 ---
 ![[Harlan Drexel_506f82b8.webp]]
 ## Description

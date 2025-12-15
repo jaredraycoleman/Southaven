@@ -1,7 +1,6 @@
 ---
 aliases:
-- Tilly
-location: Lusteris
+  - Tilly
 public: true
 species: halfling
 ---

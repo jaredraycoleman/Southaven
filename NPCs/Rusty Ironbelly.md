@@ -1,7 +1,8 @@
 ---
-location: Southaven
 public: true
 species: dwarf
+aliases:
+  - Rusty
 ---
 ![[Rusty Ironbelly_6e1e55e1.webp]]
 ## Description

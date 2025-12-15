@@ -1,0 +1,6 @@
+---
+public: false
+---
+The **High Deathlord** is the supreme leader of [[The Deathless]], an ancient Deathwalker whose authority spans all Tethers and all temples. Unlike ordinary Deathlords who command only those bound to their Tether, the High Deathlord receives the submission of every Deathlord in the order—and through them, every Deathwalker. This position is not inherited or appointed but earned through a trial of wills: any Deathlord may challenge the High Deathlord to a psychic contest of dominance. The loser submits; the winner rules. The current High Deathlord has held the position for centuries, their identity and location known only to the Deathlords who serve them. They are said to commune directly with [[Vaelith]], interpreting the god's will for the order and ensuring the Deathless remain true to their tenets.
+
+The current High Deathlord is [[Lady Sylenna Thornbrook]], who rules the coastal city of [[Sunset Bluff]] under the guise of a pious noblewoman devoted to the [[Church of Elandria]]. She has held power since 932—over three hundred years—hiding her immortality behind elaborate deceptions involving face coverings and staged "successions" to her own supposed daughters.

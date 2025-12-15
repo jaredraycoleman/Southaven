@@ -1,6 +1,8 @@
 ---
 public: true
 species: halfling
+aliases:
+  - Roswin
 ---
 ![[Roswin Brambletoe_3336f692.webp]]
 

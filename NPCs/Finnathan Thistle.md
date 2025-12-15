@@ -1,8 +1,7 @@
 ---
 aliases:
-- Finn
-- Finnathan
-location: Lusteris
+  - Finn
+  - Finnathan
 public: true
 species: halfling
 ---

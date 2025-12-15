@@ -1,0 +1,4 @@
+---
+public: false
+---
+A **Deathwalker** is an elite member of [[The Deathless]]—a mortal who willingly died and was resurrected by a Tether as an extraordinarily life-like undead. They appear entirely alive: they breathe, bleed, and age not at all. Only physical touch can reveal their true nature, as magic like *Detect Good and Evil* fails to identify them unless the caster is in direct contact. Deathwalkers are psychically linked to their Tether and to each other, able to communicate telepathically across vast distances. They must constantly resist the temptation to dominate others through this link—a struggle that defines their existence. Those who prove their mental fortitude swear submission to a single Deathlord, serving with fierce loyalty born of choice rather than compulsion. Those who fail the trial have their minds stripped away, becoming mindless undead servants.

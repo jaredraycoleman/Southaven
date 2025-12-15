@@ -1,6 +1,8 @@
 ---
 public: true
 species: elf
+aliases:
+  - Calenhir
 ---
 
 

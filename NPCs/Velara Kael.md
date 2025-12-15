@@ -1,7 +1,6 @@
 ---
 aliases:
-- Velara
-location: Southaven
+  - Velara
 public: true
 species: human
 ---

@@ -1,5 +1,8 @@
 ---
 public: false
+species: human
+aliases:
+  - Castellan
 ---
 ![[Castellan-Verin-68fea2ab.webp]]
 ## Description

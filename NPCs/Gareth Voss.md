@@ -1,7 +1,8 @@
 ---
-location: Southaven
 public: true
 species: human
+aliases:
+  - Gareth
 ---
 ![[Gareth-Voss.webp]]
 ## Description

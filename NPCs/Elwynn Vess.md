@@ -1,5 +1,8 @@
 ---
 public: true
+species: human
+aliases:
+  - Elwynn
 ---
 ![[Elwynn-Vess.webp]]
 ## Description

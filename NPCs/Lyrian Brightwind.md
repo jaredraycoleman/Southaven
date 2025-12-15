@@ -19,6 +19,6 @@ He harbors no illusions about power—he knows that change is not won through wo
 
 ## Background  
 
-Once the respected leader of the Emerald Bank, Lyrian sought to use its wealth to uplift the people of Lusteris, funding public works, education, and economic opportunities for those outside the noble class. His policies made him a champion of the Reformists—but a threat to the city's elite. In a coup orchestrated by Eirik Ravenskald and backed by the Gilded Jackals, Lyrian was forcibly removed from power and barely escaped with his life.  
+Once the respected leader of the Emerald Bank, Lyrian sought to use its wealth to uplift the people of Lusteris, funding public works, education, and economic opportunities for those outside the noble class. His policies made him a champion of the Reformists, but a threat to the city's elite. In a coup orchestrated by Eirik Ravenskald, Lyrian was forcibly removed from power and barely escaped with his life.  
 
 Now in hiding, rumors persist that he is still alive, working in the shadows to rally allies and take back what was stolen from him. Whether he returns as a diplomat, a revolutionary, or something else entirely remains to be seen—but one thing is certain: Lyrian Brightwind is not finished yet.  

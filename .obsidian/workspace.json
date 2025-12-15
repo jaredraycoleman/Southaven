@@ -8,131 +8,51 @@
         "type": "tabs",
         "children": [
           {
-            "id": "429c529d8fcae1d2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Notes/Back to Southaven/Siege of Southaven - Location Scenarios.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Siege of Southaven - Location Scenarios"
-            }
-          },
-          {
-            "id": "bdd1b51e9d4a609c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Recaps/Session 26 - The Cultist Hideout.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Session 26 - The Cultist Hideout"
-            }
-          },
-          {
-            "id": "8ce349c38b7cddfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Castellan Verin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Castellan Verin"
-            }
-          },
-          {
-            "id": "de92f16427ec478f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Recaps/Session 15 - Pies and Pestilence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 15 - Pies and Pestilence"
-            }
-          },
-          {
-            "id": "42851b5a192f5ed6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/Momeline Sweetwater.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Momeline Sweetwater"
-            }
-          },
-          {
             "id": "c7ad8369a839d7ff",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/Back to Southaven/Siege of Southaven - Location Scenarios.md",
+                "file": "Places/Last Light Church.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Siege of Southaven - Location Scenarios"
+              "title": "Last Light Church"
             }
           },
           {
-            "id": "4c6d387a0dddd915",
+            "id": "ac974e1ae9eacb04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Notes/Back to Southaven/Siege of Southaven - Location Scenarios.md",
+                "file": "Organizations/Church of Elandria.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Siege of Southaven - Location Scenarios"
+              "title": "Church of Elandria"
+            }
+          },
+          {
+            "id": "5e915b89adea13d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Ring of Silver Water.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ring of Silver Water"
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "e0938e4c357768f9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5679b752c731b2fe",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Rothgar Red-Hand.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Rothgar Red-Hand"
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "burrow",
+                "query": "calros",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -189,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 415.5
   },
   "right": {
     "id": "32f4f1bf0425e361",
@@ -271,16 +191,6 @@
               "icon": "lucide-ghost",
               "title": "advanced-tables-toolbar"
             }
-          },
-          {
-            "id": "d27f57ae7976d8fd",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
-            }
           }
         ],
         "currentTab": 3
@@ -301,62 +211,58 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "moulinette:Moulinette Browser": false,
-      "file-cleaner-redux:Clean files": false,
       "templater-obsidian:Templater": false,
-      "janitor:Janitor: scan vault": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": true
+      "quickbrush:QuickBrush": false
     }
   },
-  "active": "de92f16427ec478f",
+  "active": "5e915b89adea13d8",
   "lastOpenFiles": [
-    "Session Recaps/Session 11 - Crypts and Consequences.md.tmp.208556.1765649545766",
-    "Session Recaps/Session 11 - Crypts and Consequences.md.tmp.208556.1765649538112",
-    "Session Recaps/Session 14 - Oaths in the Wild.md",
-    "Session Recaps/Session 12 - The Emerald Heist.md",
-    "Session Recaps/Session 11 - Crypts and Consequences.md.tmp.208556.1765649530480",
-    "Session Recaps/Session 13 - Sacrifice and Shadows.md",
-    "Session Recaps/Session 11 - Crypts and Consequences.md",
-    "Session Recaps/Session 10 - Flight and Revelation.md",
-    "Session Recaps/Session 9 - Masks and Motives.md",
-    "Session Recaps/Session 8 - To Lusteris!.md",
-    "Session Recaps/Session 8 - To Lusteris!.md.tmp.208556.1765649478287",
-    "NPCs/Chief Gralduk.md",
-    "Session Recaps/Session 8 - To Lusteris!.md.tmp.208556.1765649467975",
-    "Session Recaps/Session 8 - To Lusteris!.md.tmp.208556.1765649459754",
-    "Session Recaps/Session 7 - Infiltrating Duskwatch Keep.md",
-    "Session Recaps/Session 8 - To Lusteris!.md.tmp.208556.1765649452548",
-    "Session Recaps/Session 6 - The Road to Duskwatch.md",
-    "Session Recaps/Session 8 - To Lusteris!.md.tmp.208556.1765649443396",
-    "Session Recaps/Session 8 - To Lusteris!.md.tmp.208556.1765649435763",
-    "Session Recaps/Session 8 - To Lusteris!.md.tmp.208556.1765649426568",
-    "Session Recaps/Session 8 - To Lusteris!.md.tmp.208556.1765649419045",
-    "Session Recaps/Session 5 - The Kidnapping of Brenlan Kael.md",
-    "Session Recaps/Session 27 - Confronting Ghorzak the Red.md",
-    "DM Notes/Back to Southaven/Siege of Southaven - Location Scenarios.md",
-    "DM Notes/Balandel/Balandel Arc Overview.md",
-    "Session Recaps/Session 26 - The Cultist Hideout.md",
-    "DM Notes/Global Timeline.md",
+    "Items/Crown of Judgement.md",
+    "NPCs/Brynn Rooke.md",
+    "attachments/quickbrush/quickbrush-images/Brynn-Rooke-1765759705748.png",
+    "attachments/quickbrush/quickbrush-gallery/Brynn-Rooke-1765759705810.md",
+    "NPCs/Lady Sylenna Thornbrook.md",
+    "attachments/quickbrush/quickbrush-gallery/Lady-Sylenna-Thornbrook-1765752282528.md",
+    "attachments/quickbrush/quickbrush-images/Lady-Sylenna-Thornbrook-1765752282461.png",
+    "Organizations/Kingdom of Solara.md",
+    "Creatures/High Deathlord.md.tmp.208556.1765751783987",
+    "Places/Sunset Bluff.md.tmp.208556.1765751576996",
+    "NPCs/Lady Sylenna Thornbrook.md.tmp.208556.1765751552956",
+    "Places/Sunset Bluff.md",
+    "Places/Blacktide Swamp.md",
+    "Places/Witchwood.md",
+    "Organizations/Circle of Verdant Flame.md",
+    "Organizations/Church of Elandria.md",
+    "Organizations/The Deathless.md",
+    "Organizations/Black Thorns.md",
+    "NPCs/King Aldric IX Solborn.md",
+    "NPCs/Castellan Verin.md",
+    "NPCs/Luminarch Theodric Brightspire.md",
+    "Creatures/Deathstalker.md",
+    "Creatures/High Deathlord.md",
+    "Creatures/Deathlord.md",
+    "Creatures/Deathwalker.md",
+    "Creatures/Deathpriest.md",
+    "Creatures/Deathstalker.md.tmp.208556.1765676130561",
+    "Creatures/High Deathlord.md.tmp.208556.1765676120374",
+    "Creatures/Deathpriest.md.tmp.208556.1765676118599",
+    "Creatures/Deathlord.md.tmp.208556.1765676116869",
+    "Creatures/Deathwalker.md.tmp.208556.1765676115153",
+    "Creatures/Tether.md",
+    "Creatures/Tether.md.tmp.208556.1765676113437",
+    "NPCs/Brynn Rooke.md.tmp.208556.1765667493360",
+    "Organizations/Pantheon.md",
+    "Places/Last Light Church.md",
     "NPCs/Rothgar Red-Hand.md",
-    "Session Recaps/Session 1 - The Disappearances in Southaven.md",
-    "Session Recaps/Session 16 - The Silent Grove.md",
-    "Session Recaps/Session 21 - Speeches, Spirits, and Storm Clouds.md",
-    "Session Recaps/Session 23 - Flames of Retribution.md",
-    "Session Recaps/Session 29 - Secrets Beneath the Stone.md",
-    "Session Recaps/Session 28 - Return to Southaven.md",
-    "Places/Solaris.md",
-    "DM Notes/Session Notes/2025-09-29.md",
-    "Quickbrush/quickbrush-images/Seren-Valewyn-1763945960393.webp",
-    "Quickbrush/quickbrush-images/Malrith-Kelbirn-the-Starborn-1763945897320.webp",
-    "Quickbrush/quickbrush-images/Thalara-Vess-1763945217535.webp",
-    "Quickbrush/quickbrush-images/Deadlands-1763926335206.webp",
-    "Quickbrush/quickbrush-images/King-Aldric-IX-Solborn-1763933341553.webp",
-    "Quickbrush/quickbrush-images/Luminarch-Theodric-Brightspire-68fea259.webp",
-    "Quickbrush/quickbrush-images/Arboretum-1763926771250.webp",
-    "Quickbrush/quickbrush-images/Giants-Lake-1763927021034.webp",
-    "Quickbrush/quickbrush-images/Opal-Lake-1763926636257.webp",
-    "Quickbrush/quickbrush-images/Hellrock-Hills-1763926991563.webp",
+    "DM Notes/Current Notes.md",
+    "attachments/quickbrush/quickbrush-images/Milo-Puddlewick-1765660890682.png",
+    "attachments/quickbrush/quickbrush-images/Milo-Puddlewick-1765660761541.png",
+    "attachments/Lena-Alwin.webp",
+    "attachments/Aramonds-Lookout-1763926766609.webp",
+    "attachments/Seren-Valewyn-1763945960393.webp",
+    "attachments/Malrith-Kelbirn-the-Starborn-1763945897320.webp",
+    "attachments/Thalara-Vess-1763945217535.webp",
+    "attachments/Deadlands-1763926335206.webp",
     "Untitled.canvas"
   ]
 }

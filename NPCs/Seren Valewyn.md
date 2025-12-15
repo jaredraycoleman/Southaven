@@ -1,5 +1,8 @@
 ---
 public: true
+aliases:
+  - Seren
+species: elf
 ---
 ![[Seren-Valewyn-1763945960393.webp]]
 ## Description

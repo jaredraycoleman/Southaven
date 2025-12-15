@@ -1,5 +1,8 @@
 ---
-public: false
+public: true
+aliases:
+  - Ghorzak
+species: hobgoblin
 ---
 ![[Quickbrush/quickbrush-images/Ghorzak-the-Red-68fd5b45\.webp]]
 ## Description

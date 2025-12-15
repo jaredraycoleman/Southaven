@@ -1,5 +1,6 @@
 ---
 public: true
+species: goblin
 ---
 ![[Zigra-68fd5900.webp]]
 ## Description

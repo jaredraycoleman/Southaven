@@ -1,7 +1,8 @@
 ---
-location: Balandel
 public: true
 species: elf
+aliases:
+  - Elarin
 ---
 ![[Elarin Vess_4120f773.webp]]
 ## Description

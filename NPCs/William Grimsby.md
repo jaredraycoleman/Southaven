@@ -1,7 +1,9 @@
 ---
-location: Southaven
 public: true
 species: human
+aliases:
+  - William
+  - Mr. Grimsby
 ---
 ![[William Grimsby_eecb46bb.webp]]
 ## Description

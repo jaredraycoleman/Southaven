@@ -1,5 +1,8 @@
 ---
 public: false
+aliases:
+  - Thalara
+species: elf
 ---
 ![[Thalara-Vess-1763945217535.webp]]
 

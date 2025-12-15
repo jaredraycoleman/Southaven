@@ -1,5 +1,9 @@
 ---
 public: false
+aliases:
+  - Elen
+  - Lady Tywin
+species: human
 ---
 ![[Elen-Tywin-68fd5a0e.webp]]
 ## Description

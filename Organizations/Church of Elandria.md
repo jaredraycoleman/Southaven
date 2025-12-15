@@ -42,7 +42,7 @@ A healer who gave his life curing a plague by channeling divine light through hi
 
 ### Saint Calros, Patron of Truth
 
-A scholar who uncovered a vast heresy within the early Church but chose confession over suppression, knowing it would destroy his reputation. His honesty rekindled the faith's purity.  
+A scholar who uncovered a vast heresy within the early Church (corruption by [[Nytheris]] and [[Vaelith]] worshippers who did not want to see the church succeed) but chose confession over suppression, knowing it would destroy his reputation. He was cast out into the witchwood for his supposed treachery and never returned. He is the only of the major saints whose body has never been recovered. Over time, he was recognized for his efforts and his honesty paved the way for the church to rekindle its purity.  
 **Virtue:** Truth above comfort.  
 **Symbol:** An open book wreathed in light.  
 **Lesson:** "Light reveals—even when it shames."

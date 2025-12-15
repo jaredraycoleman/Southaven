@@ -1,6 +1,8 @@
 ---
 public: true
 species: elf
+aliases:
+  - Laerwen
 ---
 ![[laerwen_sylvenblade.webp|287x287]]
 

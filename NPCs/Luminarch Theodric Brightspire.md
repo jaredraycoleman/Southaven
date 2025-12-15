@@ -1,5 +1,9 @@
 ---
 public: true
+aliases:
+  - Luminarch Brightspire
+  - Theodric
+species: human
 ---
 ![[Luminarch-Theodric-Brightspire-68fea259.webp]]
 ## Description

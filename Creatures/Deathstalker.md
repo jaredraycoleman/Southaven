@@ -1,0 +1,4 @@
+---
+public: false
+---
+A **Deathstalker** is a mindless undead creature created when a Deathwalker fails their Final Trial. When the initiate cannot resist the psychic barrage of temptation and domination, their mind is stripped away and their soul is cast into the void, leaving behind an empty husk animated only by the Tether's residual power. Deathstalkers retain the physical durability but not the undetectable nature of Deathwalkers. Their bodies are twisted and stretched over time into hideous creatures with long arms, sharp teeth, and large vacant eyes. They possess no will, no memory, and no capacity for independent thought. [[The Deathless]] use them as guards, soldiers, and expendable laborers, commanding them through the psychic link that once promised them immortality. They are a grim reminder of the stakes of the Final Trial: eternal service as a weapon, or eternal servitude as a tool.

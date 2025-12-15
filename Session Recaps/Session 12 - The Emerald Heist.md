@@ -13,11 +13,11 @@ summary: To recover the legendary Hammer of Elandria—now confirmed to be in Lu
   of Zahir Tariq, but the Black Thorns blasted a tunnel through the vault wall, rescuing
   the party just in time.
 ---
-After escaping the crypt beneath the ossuary, the party returned to the Thistle home to regroup. There, they shared their findings about the mysterious hammer—how it was identified by cultists and relocated to Lusteris' most secure vault. In response, Velara and the Thistles revealed a dangerous secret: they had been sheltering fugitives, including none other than **Lyrian Brightwind**, the former High Banker of Lusteris, ousted by **Eirik Ravenskald** in a sham election.
+After escaping the crypt beneath the ossuary, the party returned to the Thistle home to regroup. There, they shared their findings about the mysterious hammer—how it was identified by cultists and relocated to [[Lusteris]]' most secure vault. In response, [[Velara Kael|Velara]] and the Thistles revealed a dangerous secret: they had been sheltering fugitives, including none other than [[Lyrian Brightwind]], the former High Banker of Lusteris, ousted by [[Eirik Ravenskald]] in a sham election.
 
-The party met Lyrian—a young, striking half-elf—who revealed the location of the access amulet needed to enter the Emerald Bank's most secure vault, where the Hammer of Elandria presumably lay. The group agreed to infiltrate the Emerald House to retrieve it.
+The party met Lyrian—a young, striking half-elf—who revealed the location of the access amulet needed to enter the [[Emerald Bank]]'s most secure vault, where the Hammer of [[Elandria]] presumably lay. The group agreed to infiltrate the Emerald House to retrieve it.
 
-Disguises and deception were the tools of the day. With hoods drawn and **Momeline** hidden in a cart, the party entered the shopping district unnoticed. Then, they blended in with commoners visiting the Emerald House for tours. **Lirielle** used _Disguise Self_ to impersonate a generic noblewoman, Momeline as posed as Lirielle and **Dravencoles**' daughter, while **Ferinthria** acted as a hooded servant. They intimidated guards into granting them access to the **Emerald Suite**, then advanced to the main office. Ferinthria rendered Momeline invisible, distracting a guard with a feigned interest in the office's layout, while Lirielle "accidentally" dropped her scarf.
+Disguises and deception were the tools of the day. With hoods drawn and [[Momeline Sweetwater|Momeline]] hidden in a cart, the party entered the shopping district unnoticed. Then, they blended in with commoners visiting the Emerald House for tours. [[Lirielle]] used _Disguise Self_ to impersonate a generic noblewoman, Momeline posed as Lirielle and [[Dravencoles]]' daughter, while [[Ferinthria Everflame|Ferinthria]] acted as a hooded servant. They intimidated guards into granting them access to the Emerald Suite, then advanced to the main office. Ferinthria rendered Momeline invisible, distracting a guard with a feigned interest in the office's layout, while Lirielle "accidentally" dropped her scarf.
 
 Once alone, Momeline discovered the **jade-inlaid safe** hidden behind a painting. As the lock clicked and a magical timer began, she recalled a comment from Eirik about the number 34. With just four seconds left, she cracked the safe. Inside was the amulet.
 
@@ -31,8 +31,8 @@ Chains bound the weapon—clearly enchanted. Lirielle identified a **frost vulne
 
 Then the alarms blared.
 
-**Zahir Tariq**, leader of the Obsidian Army, arrived with a garrison of guards. Lirielle, still disguised as Eirik, attempted to bluff her way out, misnaming Zahir as “Zahoo” and “Zaboomafoo” in perfect Eirik fashion. The ruse nearly worked—until Momeline appeared, breaking the illusion.
+[[Zahir Tariq]], leader of the [[Obsidian Army]], arrived with a garrison of guards. Lirielle, still disguised as Eirik, attempted to bluff her way out, misnaming Zahir as "Zahoo" and "Zaboomafoo" in perfect Eirik fashion. The ruse nearly worked—until Momeline appeared, breaking the illusion.
 
 Zahir ordered his men to strike. A brutal fight ensued. Ferinthria unleashed a devastating fireball, obliterating many guards. Dravencoles and Momeline took down Zahir with hammer and blade. Lirielle incinerated attackers with _Burning Hands_, but reinforcements continued flooding in.
 
-Just as hope dwindled, an explosion rocked the chamber. A new tunnel opened—and through it came **Velara**, **Lyrian**, and the **Black Thorns**, here to extract the party. They fled into the stables, Zahir hot on their heels. Mounting horses, the party galloped into the night, vanishing into the city streets with the hammer in hand.
+Just as hope dwindled, an explosion rocked the chamber. A new tunnel opened—and through it came Velara, Lyrian, and the [[Black Thorns]], here to extract the party. They fled into the stables, Zahir hot on their heels. Mounting horses, the party galloped into the night, vanishing into the city streets with the hammer in hand.

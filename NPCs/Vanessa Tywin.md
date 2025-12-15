@@ -1,5 +1,8 @@
 ---
 public: false
+aliases:
+  - Vanessa
+species: human
 ---
 ![[Vanessa-Tywin-68fd5ac4.webp]]
 ## Description

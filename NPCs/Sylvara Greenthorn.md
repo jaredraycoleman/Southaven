@@ -1,6 +1,8 @@
 ---
 public: true
 species: elf
+aliases:
+  - Sylvara
 ---
 ![[Sylvara Greenthorn_84b64cd2.webp|368x368]]
 ## Description

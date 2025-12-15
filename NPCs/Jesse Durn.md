@@ -1,6 +1,8 @@
 ---
 public: true
 species: half-elf
+aliases:
+  - Jesse
 ---
 ![[Jesse Durn_fabdb960.webp]]
 

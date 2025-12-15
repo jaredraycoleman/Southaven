@@ -1,7 +1,8 @@
 ---
-location: Balandel
 public: true
 species: halfling
+aliases:
+  - Dessie
 ---
 ![[Dessie Pindlehop_e21ff953.webp]]
 

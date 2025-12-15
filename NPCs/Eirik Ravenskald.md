@@ -1,7 +1,8 @@
 ---
-location: Lusteris
 public: true
 species: human
+aliases:
+  - Eirik
 ---
 ![[Eirik Ravenskald_7dfe4f90.webp]]
 ## Description

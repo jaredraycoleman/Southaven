@@ -1,6 +1,8 @@
 ---
 public: true
 species: fae
+aliases:
+  - Margatha
 ---
 ![[Margatha Blacktide_d48e7e38.webp]]
 ## Description  

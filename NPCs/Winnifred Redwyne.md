@@ -1,7 +1,8 @@
 ---
-location: Lusteris
 public: true
 species: human
+aliases:
+  - Winnifred
 ---
 ![[Winnifred Redwyne_731bb1c8.webp]]
 ## Description  
@@ -16,6 +17,8 @@ She is deeply jealous of those with true magical talent, compensating with an ov
 
 ## Background  
 
-Winnifred was born to a low-ranking noble family with no wealth, prestige, or magic to speak of, but she clawed her way into the Marble Academy's administration through sheer persistence and an uncanny ability to eliminate her rivals through political maneuvering. She has long aligned herself with Eirik Ravenskald and the Traditionalist faction, believing that the Academy should be less about "theory" and "philosophy" and more about training mages for practical, noble-serving purposes.  
+Winnifred was born to a low-ranking noble family with no wealth, prestige, or magic to speak of, but she clawed her way into the [[Marble Academy]]'s administration through sheer persistence and an uncanny ability to eliminate her rivals through political maneuvering. She has long aligned herself with [[Eirik Ravenskald]] and the Traditionalist faction, believing that the Academy should be less about "theory" and "philosophy" and more about training mages for practical, noble-serving purposes.  
 
+%% 
 With the city in turmoil, she sees an opportunity to seize control of the Academy by discrediting Finn and Tilly, aligning herself with those who would curtail their influence. Though she does not yet realize the full extent of Eirik's ties to the Gilded Jackals or the Black Star cult, she is more than willing to aid his efforts to reshape Lusteris—so long as it puts her at the top of the Academy.  
+ %%

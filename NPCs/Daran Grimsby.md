@@ -2,6 +2,7 @@
 public: true
 aliases:
   - Daran
+species: human
 ---
 ![[Daran Grimsby.webp]]
 ## Description

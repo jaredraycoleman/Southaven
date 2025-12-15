@@ -1,7 +1,8 @@
 ---
-location: Balandel
 public: true
 species: human
+aliases:
+  - Garrin
 ---
 ![[Garrin Dace_644f7ab6.webp]]
 ## Description

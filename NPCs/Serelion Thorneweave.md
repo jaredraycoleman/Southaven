@@ -1,6 +1,8 @@
 ---
 public: true
 species: elf
+aliases:
+  - Serelion
 ---
 ![[Serelion Thorneweave_4a726cd2.webp]]
 ## Description

@@ -1,6 +1,8 @@
 ---
 public: true
 species: elf
+aliases:
+  - Serelion
 ---
 ![[serelion_vael.webp]]
 ## Description

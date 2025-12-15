@@ -1,5 +1,8 @@
 ---
 public: true
+aliases:
+  - Lena
+species: human
 ---
 ![[Lena-Alwin-68fd57fb.webp]]
 ## Description
