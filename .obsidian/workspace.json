@@ -43,16 +43,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Ring of Silver Water.md",
+                "file": "DM Notes/Aelryn Story/Aelryn Story.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ring of Silver Water"
+              "title": "Aelryn Story"
+            }
+          },
+          {
+            "id": "cc1519c6dfd833f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Notes/Back to Southaven/Return to Southaven.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Return to Southaven"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "calros",
+                "query": "aramond",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -215,8 +229,25 @@
       "quickbrush:QuickBrush": false
     }
   },
-  "active": "5e915b89adea13d8",
+  "active": "cc1519c6dfd833f6",
   "lastOpenFiles": [
+    "DM Notes/Back to Southaven/Serpent's Lair.md",
+    "DM Notes/Back to Southaven/Siege of Southaven - Location Scenarios.md",
+    "DM Notes/Back to Southaven/Return to Southaven.md",
+    "Organizations/Gilded Jackals.md",
+    "DM Notes/Back to Southaven/Hellrock Hills.md",
+    "NPCs/Vaelith.md",
+    "Creatures/Deathpriest.md",
+    "DM Notes/Session Notes/2025-12-20.md",
+    "DM Notes/Session Notes/2025-10-30.md",
+    "DM Notes/Global Timeline.md",
+    "Places/Blacktide Beastiary.md",
+    "DM Notes/Session Notes/2025-07-28.md",
+    "DM Notes/Aelryn Story/Arc.md",
+    "DM Notes/Aelryn Story/Aelryn Story.md",
+    "Organizations/Church of Elandria.md",
+    "DM Notes/Aelryn Story",
+    "Items/Ring of Silver Water.md",
     "Items/Crown of Judgement.md",
     "NPCs/Brynn Rooke.md",
     "attachments/quickbrush/quickbrush-images/Brynn-Rooke-1765759705748.png",
@@ -232,29 +263,12 @@
     "Places/Blacktide Swamp.md",
     "Places/Witchwood.md",
     "Organizations/Circle of Verdant Flame.md",
-    "Organizations/Church of Elandria.md",
-    "Organizations/The Deathless.md",
-    "Organizations/Black Thorns.md",
-    "NPCs/King Aldric IX Solborn.md",
-    "NPCs/Castellan Verin.md",
-    "NPCs/Luminarch Theodric Brightspire.md",
-    "Creatures/Deathstalker.md",
-    "Creatures/High Deathlord.md",
-    "Creatures/Deathlord.md",
-    "Creatures/Deathwalker.md",
-    "Creatures/Deathpriest.md",
     "Creatures/Deathstalker.md.tmp.208556.1765676130561",
     "Creatures/High Deathlord.md.tmp.208556.1765676120374",
     "Creatures/Deathpriest.md.tmp.208556.1765676118599",
     "Creatures/Deathlord.md.tmp.208556.1765676116869",
     "Creatures/Deathwalker.md.tmp.208556.1765676115153",
-    "Creatures/Tether.md",
     "Creatures/Tether.md.tmp.208556.1765676113437",
-    "NPCs/Brynn Rooke.md.tmp.208556.1765667493360",
-    "Organizations/Pantheon.md",
-    "Places/Last Light Church.md",
-    "NPCs/Rothgar Red-Hand.md",
-    "DM Notes/Current Notes.md",
     "attachments/quickbrush/quickbrush-images/Milo-Puddlewick-1765660890682.png",
     "attachments/quickbrush/quickbrush-images/Milo-Puddlewick-1765660761541.png",
     "attachments/Lena-Alwin.webp",
